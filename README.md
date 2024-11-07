@@ -16,7 +16,7 @@ git clone https://github.com/fga-eps-mds/2024.2-CALCULUS-DOC
 2. Navegue para a pasta do repositório:
 
 ```bash
-cd documentacao 
+cd docs
 ```
 5. Execute o servidor MkDocs:
 
