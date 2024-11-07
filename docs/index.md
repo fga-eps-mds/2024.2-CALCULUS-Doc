@@ -1,17 +1,28 @@
-# Welcome to MkDocs
+# 2024.2-ARANDU-DOC
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+ARANDU é uma plataforma de aprendizado, 100% feita por estudantes da UnB, projetada para tornar o estudo de várias disciplinas escolares uma experiência envolvente e eficaz. Inspirado nos modelos de sucesso do Duolingo e Brilliant, o ARANDU oferece uma abordagem inovadora para o aprendizado de matérias escolares, tornando-o acessível, divertido e altamente personalizado.
 
-## Commands
+## Integrantes 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### EPS
 
-## Project layout
+| Matrícula  | Nome                      |
+|:----------:|:--------------------------|
+| 200014447  | André Corrêa da Silva      |
+| 200018167  | Gabriel Mariano da Silva   |
+| 200018167  | Gabriel Costa de Oliveira  |
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### MDS
+
+| Matrícula  | Nome                                |
+|:----------:|:------------------------------------|
+| 231035141  | João Filipe de Oliveira Souza       |
+| 231026984  | Dylan Portela Cavalcante            |
+| 231012316  | Yasmin Moreira do Nascimento        |
+| 231037727  | Ricardo Henrique Silva Rodrigues    |
+| 232014244  | Danilo de Melo Ribeiro              |
+| 231035722  | Marina Agostini Galdi               |
+| 231037692  | Isabella Mendes Choukaira           |
+| 231037665  | Daniel Rodrigues Nascimento         |
+| 211039528  | João Pedro Sampaio Maciel           |
+| 202017281  | Eduardo de Melo Colli               |
