@@ -34,9 +34,11 @@ extra_css:
 nav:
   - Sobre: 'index.md'
   - Atas :
-     - Ata dia 22/10/2024: 'Atas/Ata_Reunião_22_de_Outubro.md'
-     - Ata dia 23/10/2024: 'Atas/ata_reuniao_23_10.md'
-     - Ata dia 29/10/2024: 'Atas/ata_reuniao_29_10_2024.md'
+     - Ata dia 22/10/2024: 'Atas/ata_reuniao_22_10_24.md'
+     - Ata dia 23/10/2024: 'Atas/ata_reuniao_23_10_24.md'
+     - Ata dia 29/10/2024: 'Atas/ata_reuniao_29_10_24.md'
+     - Ata dia 02/11/2024: 'Atas/ata_reuniao_02_11_24.md'
+     - Ata dia 06/11/2024: 'Atas/ata_reuniao_06_11_24.md'
  # - Lean Inception:
  #   - Visão do Produto: 'lean/visao_produto.md'
  #   - É - Não É - Faz - Não Faz: 'lean/faz_nao_faz.md'
