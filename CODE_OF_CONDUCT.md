@@ -5,6 +5,9 @@
 | **Versão** | **Data** | **Modificação** | **Responsável** |
 | :-: | :-: | :-: | :-: |
 | 0.1 | 09/11/24 | Criação e adaptação do documento | Gabriel Mariano e André Corrêa |
+| 0.1.1 | 10/11/24 | Adição da Legenda da Tabela de versionamento | Gabriel Mariano |
+
+*Tabela 1: Versionamento*
 
 ## Nosso compromisso
 
