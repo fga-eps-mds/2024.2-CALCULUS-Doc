@@ -6,6 +6,7 @@
 | :-: | :-: | :-: | :-: |
 | 0.1 | 09/11/24 | Criação do documento | Gabriel Mariano e André Corrêa |
 | 0.2 | 10/11/24 | Definição das políticas | Gabriel Mariano |
+| 0.3 | 20/11/24 | Altera nomenclatura proposta para *branches* | Gabriel Mariano |
 
 *Tabela 1: Versionamento*
 
@@ -56,9 +57,9 @@ Para tal, são estabelecidas as seguintes *branches*:
 | *main* | Abriga o código de produção do projeto, isto é, a versão mais estável e com garantia de funcionamento do mesmo. Todo o conteúdo a ser adicionado nesta deve originar apenas de *Pull Requests* a partir da *branch* de *qa*. | *main* |
 | *qa* | Abriga o código do projeto em fase de testes e garantia da qualidade. O conteúdo a ser adicionado nesta pode ser proveniente de *pull requests* a partir das *branches* *dev* ou *fix* (para correções mais pontuais e/ou urgentes). | *qa* |
 | *dev* | *Branch* destinada ao código em desenvolvimento. Pode não ser necessariamente estável. O conteúdo a ser adicionado nesta deve ser proveniente de *pull requests* a partir das *branches*  | *dev* |
-| *feat* | *Branch* destinada ao desenvolvimento de funcionalidades. Devem ser associadas ao desenvolvimento de alguma funcionalidade, seguindo o proposto pela *issue* da respectiva funcionalidade. Nesta, podem ser adicionados *commits* diretamente. Esta deve se originar necessariamente a partir da *branch* *dev* e devem ser mescladas à mesma. | *feat(#número-da-issue)/nome-da-issue* |
-| *fix* | *Branch* destinada à correção de problemas. Devem ser associadas à uma *issue* de correção/*fix*. Nesta, também podem ser adicionados *commits* diretamente. Esta deve se originar a partir das *branches* *dev* ou *qa*, sendo mescladas à *branch* de origem. | *fix(#número-da-issue)/nome-da-issue* |
-| *doc* | *Branch* destinada à documentação. Devem ser associadas à uma *issue* de documentação. Nesta, também podem ser adicionados *commits* diretamente. | *doc(#número-da-issue)/nome-da-issue* |
+| *feat* | *Branch* destinada ao desenvolvimento de funcionalidades. Devem ser associadas ao desenvolvimento de alguma funcionalidade, seguindo o proposto pela *issue* da respectiva funcionalidade. Nesta, podem ser adicionados *commits* diretamente. Esta deve se originar necessariamente a partir da *branch* *dev* e devem ser mescladas à mesma. | *feat#número-da-issue/nome-da-issue* |
+| *fix* | *Branch* destinada à correção de problemas. Devem ser associadas à uma *issue* de correção/*fix*. Nesta, também podem ser adicionados *commits* diretamente. Esta deve se originar a partir das *branches* *dev* ou *qa*, sendo mescladas à *branch* de origem. | *fix#número-da-issue/nome-da-issue* |
+| *doc* | *Branch* destinada à documentação. Devem ser associadas à uma *issue* de documentação. Nesta, também podem ser adicionados *commits* diretamente. | *doc#número-da-issue/nome-da-issue* |
 
 *Tabela 3: Detalhamento das branches*
 

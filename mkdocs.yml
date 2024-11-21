@@ -33,6 +33,8 @@ extra_css:
 
 nav:
   - Sobre: "index.md"
+  - Guias:
+      - Guia de Contribuição: "guias/guia_de_contribuicao.md"
   - Atas:
       - Ata dia 22/10/2024: "Atas/ata_reuniao_22_10_24.md"
       - Ata dia 23/10/2024: "Atas/ata_reuniao_23_10_24.md"
