@@ -7,6 +7,7 @@
 | 0.1 | 09/11/24 | Criação do documento | Gabriel Mariano e André Corrêa |
 | 0.2 | 10/11/24 | Definição das políticas | Gabriel Mariano |
 | 0.3 | 20/11/24 | Altera nomenclatura proposta para *branches* | Gabriel Mariano |
+| 0.4 | 02/12/24 | Adiciona *template* para *User Stories* | Gabriel Mariano |
 
 *Tabela 1: Versionamento*
 
@@ -46,7 +47,37 @@ Os critérios para a definição da pontuação da *issue* se basearam no artigo
 
 *Tabela 2: Critérios de Pontuação do Planning Poker*
 
-### Branching
+### **User Stories**
+
+Conforme apresentado por Cohn (2004), histórias de usuário visam apresentar uma funcionalidade dotada de valor de negócio aos interessados. Com tal objetivo em vista, estas devem ser apresentadas de modo inteligível aos interessados, permitindo assim uma avaliação das histórias pelos mesmos.
+
+Tendo em mente a corrente organização da estrutura de gerência do trabalho pelo **ZenHub** em paralelo ao **GitHub**, propõe-se o uso do seguinte *template* para a documentação das histórias de usuário, ao fim de atender a ideia geral anteriormente proposta:
+
+```
+<!---USXX - Descrição da US-->
+ 
+## **Descrição**
+ 
+"Eu, como [PAPEL DE USUÁRIO], desejo [REALIZAR ALGO COM O SISTEMA] para que [OBJETIVO FINAL DA HISTÓRIA]"
+ 
+## **Critérios de Aceitação:**
+ 
+- [] **Critério de Aceitação 01**: <descrever critério>;
+- [] **Critério de Aceitação N**: <descrever critério>;
+ 
+## **Tarefas:**
+ 
+- [] **Tarefa 01:** <descrever tarefa>;
+- [] **Tarefa N:** <descrever tarefa>;
+ 
+## **Protótipo:**
+ 
+<!--- Aqui, podem ser adicionadas as imagens das telas do protótipo relacionadas à história em questão-->
+
+O protótipo pode ser encontrado em: <link_para_o_protótipo>
+```
+
+### **Branching**
 
 O fluxo de *branching* dos repositórios de desenvolvimento seguirá, em um escopo maior, algumas das ideias estabelecidas no [*GitFlow*](https://nvie.com/posts/a-successful-git-branching-model/) e, de maneira mais definida, o fluxo estabelecido nos [Guias de Contribuição](https://fga-eps-mds.github.io/2024.1-CALCULUS-DOC/guias/guia-contribuicao/) da equipe do semestre anterior deste projeto.
 
@@ -228,3 +259,4 @@ Este *pull request* adiciona o guia de contribuição ao projeto, incluindo as p
 - [*Planning Poker*: A melhor maneira de estimar qualquer atividade](https://metodoagil.com/planning-poker/)
 - [*Story Point Estimation and Planning Poker* por Fatih YAZICI](https://fatihyazici7.medium.com/story-point-estimation-and-planning-poker-2bf55f5bf5b2)
 - [*GitHub pull request template* por Arthur Coudouy](https://axolo.co/blog/p/part-3-github-pull-request-template)
+- **COHN, Mike**. **User Stories Applied**: for agile software development. Boston: Addison-Wesley Professional, 2004. 304 p.
