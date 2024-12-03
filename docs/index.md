@@ -1,4 +1,4 @@
-# 2024.2-ARANDU-DOC
+# 2024.2 - ARANDU
 
 ARANDU é uma plataforma de aprendizado, 100% feita por estudantes da UnB, projetada para tornar o estudo de várias disciplinas escolares uma experiência envolvente e eficaz. Inspirado nos modelos de sucesso do Duolingo e Brilliant, o ARANDU oferece uma abordagem inovadora para o aprendizado de matérias escolares, tornando-o acessível, divertido e altamente personalizado.
 
