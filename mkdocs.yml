@@ -6,17 +6,34 @@ repo_url: "https://github.com/fga-eps-mds/2024.2-CALCULUS-DOC"
 theme:
   name: material
   palette:
-    primary: white
-    accent: black
-    background: black
-    text: white
-    code: white
+    - scheme: default
+      primary: deep orange
+      accent: black
+      background: black
+      text: white
+      code: white
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep orange
+      accent: black
+      background: black
+      text: white
+      code: white
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
   font:
     text: Poppins
     code: Inconsolata
   font_size:
     text: 16px
     code: 14px
+  locale: pt_BR
+
+user_color_mode_toggle: true
 
 plugins:
   - search
@@ -35,6 +52,8 @@ nav:
   - Sobre: "index.md"
   - Guias:
       - Guia de Contribuição: "guias/guia_de_contribuicao.md"
+  - Equipe:
+      - Planejamento de Comunicação: "equipe/planejamento_de_comunicacao.md"
   - Atas:
       - Ata dia 22/10/2024: "Atas/ata_reuniao_22_10_24.md"
       - Ata dia 23/10/2024: "Atas/ata_reuniao_23_10_24.md"
@@ -47,6 +66,7 @@ nav:
       - Ata dia 09/11/2024: "Atas/ata_reuniao_09_11_24.md"
       - Ata dia 20/11/2024: "Atas/ata_reuniao_20_11_24.md"
       - Ata dia 23/11/2024: "Atas/ata_reuniao_23_11_24.md"
+  
   # - Lean Inception:
   #   - Visão do Produto: 'lean/visao_produto.md'
   #   - É - Não É - Faz - Não Faz: 'lean/faz_nao_faz.md'
