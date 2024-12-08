@@ -77,7 +77,7 @@ nav:
     - Jornada: 'Lean_Inception/jornada.md'
     - Brainstorm: 'Lean_Inception/brainstorm.md'
     - Revisão Técnica, de Negócio e de UX: 'Lean_Inception/rev_tec.md'
-  #   - Sequenciador: 'lean/sequenciador.md'
+    - Sequenciador: 'Lean_Inception/sequencia.md'
   #   - Canvas MVP: 'lean/canvas_mvp.md'
   # - Documentação Técnica:
   #   - Termo de Abertura do Projeto: 'organizacoes/tap.md'
