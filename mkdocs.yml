@@ -76,7 +76,7 @@ nav:
     - Personas: 'Lean_Inception/personas.md'
     - Jornada: 'Lean_Inception/jornada.md'
     - Brainstorm: 'Lean_Inception/brainstorm.md'
-  #   - Revisão Técnica, de Negócio e de UX: 'lean/revisao_tecnica.md'
+    - Revisão Técnica, de Negócio e de UX: 'Lean_Inception/rev_tec.md'
   #   - Sequenciador: 'lean/sequenciador.md'
   #   - Canvas MVP: 'lean/canvas_mvp.md'
   # - Documentação Técnica:
