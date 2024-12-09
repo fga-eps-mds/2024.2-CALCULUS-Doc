@@ -5,6 +5,7 @@
 | **Versão** | **Data** | **Modificação** | **Responsável** |
 | :-: | :-: | :-: | :-: |
 | 1.0 | 02/12/24 | Criação do documento | Gabriel Mariano e André Corrêa |
+| 1.1| 08/12/24 | adição de pareamento para US03 | Gabriel Mariano e André Corrêa |
 
 *Tabela 1: Versionamento*
 
@@ -22,9 +23,9 @@ Abaixo, a disposição dos pareamentos ao longo do projeto:
 | :-: | :-: | :-: | :-: |
 | [**US01**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/58) | Realizar Autenticação | Gabriel Costa, João Filipe, Danilo de Melo, Yasmin Nascimento e Dylan Cavalcante | **Pareamento 01**: Gabriel Costa, Yasmin Nascimento e Dylan Cavalcante </br> **Pareamento 02**: Gabriel Costa, Danilo de Melo e João Filipe |
 | [**US02**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/59) | Gerenciar Usuário | André Corrêa, Gabriel Mariano, Eduardo de Melo, Ricardo Henrique, Daniel Rodrigues, Marina Galdi e Isabella Choukaira | **Pareamento 01**: André Corrêa, Gabriel Mariano, Marina Galdi e Isabella Choukaira </br> **Pareamento 02**: André Corrêa, Gabriel Mariano, Eduardo de Melo, Ricardo Henrique e Daniel Rodrigues |
+| [**US03**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/60) | Recuperar Conta | André Corrêa, Gabriel Mariano, Gabriel Costa, Danilo de Melo e João Filipe | **Pareamento 01**: André Corrêa, Gabriel Mariano, Gabriel Costa, Danilo de Melo e João Filipe|
 
 <!--
-| [**US03**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/60) | Recuperar Conta | a definir | a definir |
 | [**US04**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/66) | Acessar Disciplinas | a definir | a definir |
 | [**US05**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/64) | Acessar Jornadas | a definir | a definir |
 | [**US06**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/65) | Acessar Trilhas | a definir | a definir |

@@ -52,6 +52,7 @@ nav:
   - Sobre: "index.md"
   - Guias:
       - Guia de Contribuição: "guias/guia_de_contribuicao.md"
+      - Guia de identidade visual: 'guias/IDV.md'
   - Equipe:
       - Planejamento de Comunicação: "equipe/planejamento_de_comunicacao.md"
       - Gestão de Conhecimentos: "equipe/gestao_de_conhecimentos.md"
@@ -91,14 +92,14 @@ nav:
   #   - Visão de Endpoints: 'organizacoes/visao-de-endpoints.md'
   #   - Manual de Instruções: 'organizacoes/manual_de_instruções.md'
   #   - Plano de Comunicação: 'planejamento/plano_comunicacao.md'
-  #   - Plano de Qualidade: 'planos/plano_qualidade.md'
-  #   - Plano de Custos: 'planos/planos_custos.md'
+    - Plano de Qualidade: 'projeto/qualidade.md'
+    - Plano de Custos: 'projeto/custos.md'
+    - Plano de Riscos: 'projeto/planejamento_de_risco.md'
   #   - EVM: 'organizacoes/EVM.md'
   #   - Analise de Riscos: 'planos/planos_riscos.md'
   #   - Quadro de Conhecimento e Pareamento: 'planejamento/conhecimento_pareamento.md'
   # - Guias:
   #   - Guia de Contribuição: 'guias/guia-contribuicao.md'
-  #   - Guia de Estilo: 'guias/guia-estilo.md'
   #   - Código de Conduta: 'guias/codigo-conduta.md'
   # - Dojos:
   #   - Dojo Markdown: 'dojo/dojo-markdown.md'
