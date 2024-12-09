@@ -90,7 +90,7 @@ nav:
   #   - Manual de Instruções: 'organizacoes/manual_de_instruções.md'
   - Gestão do Projeto:
   #   - Plano de Comunicação: 'planejamento/plano_comunicacao.md'
-  #   - Plano de Qualidade: 'planos/plano_qualidade.md'
+    - Plano de Qualidade: 'projeto/qualidade.md'
     - Plano de Custos: 'projeto/custos.md'
     - Plano de Riscos: 'projeto/planejamento_de_risco.md'
   #   - EVM: 'organizacoes/EVM.md'
