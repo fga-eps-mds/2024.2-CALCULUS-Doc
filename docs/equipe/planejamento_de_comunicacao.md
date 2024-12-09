@@ -5,6 +5,7 @@
 | **Versão** | **Data** | **Modificação** | **Responsável** |
 | :-: | :-: | :-: | :-: |
 | 1.0 | 02/12/24 | Criação do documento | Gabriel Mariano e André Corrêa |
+| 1.1 | 08/12/24 | Adição do Link para o When2Meet | Gabriel Mariano e André Corrêa |
 
 *Tabela 1: Versionamento*
 
@@ -35,7 +36,7 @@ Para além da definição de ferramentas de comunicação interna e externa da e
 
 ### Disponibilidade
 
-A planilha abaixo pode ser encontrada com mais detalhes quanto a disposição individual dos membros da equipe na ferramenta [**When2Meet**](https://www.when2meet.com/).
+A planilha abaixo pode ser encontrada com mais detalhes quanto a disposição individual dos membros da equipe na ferramenta [**When2Meet**](https://www.when2meet.com/?27101755-Ux3Wx).
 
 <img src="../../assets/disponibilidade.png" alt="Planilha de Disponibilidade" width="400"/>
 
