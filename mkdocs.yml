@@ -80,6 +80,7 @@ nav:
     - Revisão Técnica, de Negócio e de UX: 'Lean_Inception/rev_tec.md'
     - Sequenciador: 'Lean_Inception/sequencia.md'
     - Canvas MVP: 'Lean_Inception/canvas_mvp.md'
+  - Estrutura Analítica do Projeto: 'projeto/estrutura_analitica.md'
   # - Documentação Técnica:
   #   - Termo de Abertura do Projeto: 'organizacoes/tap.md'
   #   - Documento de Arquitetura: 'organizacoes/documento_arquitetura.md'
