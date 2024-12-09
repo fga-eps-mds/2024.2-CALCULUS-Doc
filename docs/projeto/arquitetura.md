@@ -5,6 +5,7 @@
 | **Versão** | **Data** | **Modificação** | **Responsável** |
 | :-: | :-: | :-: | :-: |
 | 0.1 | 09/12/24 | Criação do documento | Gabriel Mariano |
+| 1.0 | 09/12/24 | atualização do documento | André Corrêa |
 
 *Tabela 1: Versionamento*
 
@@ -35,3 +36,9 @@ O *deploy* da aplicação foi realizado na plataforma **Render** e pode ser enco
 ## Documentação Anterior
 
 Por se tratar de um sistema legado de outra equipe de desenvolvimento, uma documentação prévia da arquitetura do sistema pode ser encontrada na [Documentação de Arquitetura do Projeto Calculus 2024-1](https://fga-eps-mds.github.io/2024.1-CALCULUS-DOC/organizacoes/documento_arquitetura/).
+
+## Atualização dos documentos de arquitetura
+
+Para as pŕoximas etapas, serão realizadas verificações dos atuais documentos e sera atualizado o que for necessário, por exemplo, é necessário a atualização que mostra a ligação do app mobile com os backends.
+
+Além disso, com essa validação, os documentos serão adicionados nesse repositório, retirando a necessidade da ligação com o do semestre anterior

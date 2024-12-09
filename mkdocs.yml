@@ -80,8 +80,9 @@ nav:
     - Revisão Técnica, de Negócio e de UX: 'Lean_Inception/rev_tec.md'
     - Sequenciador: 'Lean_Inception/sequencia.md'
     - Canvas MVP: 'Lean_Inception/canvas_mvp.md'
-  - Estrutura Analítica do Projeto: 'projeto/estrutura_analitica.md'
-  - Documento de Arquitetura: 'projeto/arquitetura.md'
+  - Gestão do Projeto:
+    - Estrutura Analítica do Projeto: 'projeto/estrutura_analitica.md'
+    - Documento de Arquitetura: 'projeto/arquitetura.md'
   # - Documentação Técnica:
   #   - Termo de Abertura do Projeto: 'organizacoes/tap.md'
   #   - Documento de Arquitetura: 'organizacoes/documento_arquitetura.md'
@@ -89,7 +90,6 @@ nav:
   #   - Visão de Dados: 'organizacoes/visao-de-dados.md'
   #   - Visão de Endpoints: 'organizacoes/visao-de-endpoints.md'
   #   - Manual de Instruções: 'organizacoes/manual_de_instruções.md'
-  # - Gestão do Projeto:
   #   - Plano de Comunicação: 'planejamento/plano_comunicacao.md'
   #   - Plano de Qualidade: 'planos/plano_qualidade.md'
   #   - Plano de Custos: 'planos/planos_custos.md'
