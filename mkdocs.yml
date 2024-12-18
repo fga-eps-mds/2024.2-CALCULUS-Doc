@@ -52,24 +52,24 @@ nav:
   - Sobre: "index.md"
   - Guias:
       - Guia de Contribuição: "guias/guia_de_contribuicao.md"
-      - Guia de identidade visual: 'guias/IDV.md'
+      - Guia de Identidade Visual: 'guias/IDV.md'
   - Equipe:
       - Planejamento de Comunicação: "equipe/planejamento_de_comunicacao.md"
       - Gestão de Conhecimentos: "equipe/gestao_de_conhecimentos.md"
       - Gestão de Pareamentos: "equipe/gestao_de_pareamento.md"
   - Atas:
-      - Ata dia 22/10/2024: "Atas/ata_reuniao_22_10_24.md"
-      - Ata dia 23/10/2024: "Atas/ata_reuniao_23_10_24.md"
-      - Ata dia 29/10/2024: "Atas/ata_reuniao_29_10_24.md"
-      - Ata dia 30/10/2024: "Atas/ata_reuniao_30_10_24.md"
-      - Ata dia 02/11/2024: "Atas/ata_reuniao_02_11_24.md"
-      - Ata dia 04/11/2024: "Atas/ata_reuniao_04_11_24.md"
-      - Ata dia 05/11/2024: "Atas/ata_reuniao_05_11_24.md"
-      - Ata dia 06/11/2024: "Atas/ata_reuniao_06_11_24.md"
-      - Ata dia 07/11/2024: "Atas/ata_reuniao_07_11_24.md"
-      - Ata dia 09/11/2024: "Atas/ata_reuniao_09_11_24.md"
-      - Ata dia 20/11/2024: "Atas/ata_reuniao_20_11_24.md"
-      - Ata dia 23/11/2024: "Atas/ata_reuniao_23_11_24.md"
+      - Ata do dia 22/10/2024: "Atas/ata_reuniao_22_10_24.md"
+      - Ata do dia 23/10/2024: "Atas/ata_reuniao_23_10_24.md"
+      - Ata do dia 29/10/2024: "Atas/ata_reuniao_29_10_24.md"
+      - Ata do dia 30/10/2024: "Atas/ata_reuniao_30_10_24.md"
+      - Ata do dia 02/11/2024: "Atas/ata_reuniao_02_11_24.md"
+      - Ata do dia 04/11/2024: "Atas/ata_reuniao_04_11_24.md"
+      - Ata do dia 05/11/2024: "Atas/ata_reuniao_05_11_24.md"
+      - Ata do dia 06/11/2024: "Atas/ata_reuniao_06_11_24.md"
+      - Ata do dia 07/11/2024: "Atas/ata_reuniao_07_11_24.md"
+      - Ata do dia 09/11/2024: "Atas/ata_reuniao_09_11_24.md"
+      - Ata do dia 20/11/2024: "Atas/ata_reuniao_20_11_24.md"
+      - Ata do dia 23/11/2024: "Atas/ata_reuniao_23_11_24.md"
   
   - Lean Inception:
     - Visão do Produto: 'Lean_Inception/Vis_prod.md'
@@ -81,26 +81,18 @@ nav:
     - Revisão Técnica, de Negócio e de UX: 'Lean_Inception/rev_tec.md'
     - Sequenciador: 'Lean_Inception/sequencia.md'
     - Canvas MVP: 'Lean_Inception/canvas_mvp.md'
-  - Gestão do Projeto:
+  - Documentação Técnica:
     - Estrutura Analítica do Projeto: 'projeto/estrutura_analitica.md'
     - Documento de Arquitetura: 'projeto/arquitetura.md'
-  # - Documentação Técnica:
   #   - Termo de Abertura do Projeto: 'organizacoes/tap.md'
-  #   - Documento de Arquitetura: 'organizacoes/documento_arquitetura.md'
-  #   - Estrutura Analítica do Projeto: 'organizacoes/eap.md'
   #   - Visão de Dados: 'organizacoes/visao-de-dados.md'
   #   - Visão de Endpoints: 'organizacoes/visao-de-endpoints.md'
   #   - Manual de Instruções: 'organizacoes/manual_de_instruções.md'
-  #   - Plano de Comunicação: 'planejamento/plano_comunicacao.md'
+  - Gestão do Projeto:
     - Plano de Qualidade: 'projeto/qualidade.md'
     - Plano de Custos: 'projeto/custos.md'
     - Plano de Riscos: 'projeto/planejamento_de_risco.md'
   #   - EVM: 'organizacoes/EVM.md'
-  #   - Analise de Riscos: 'planos/planos_riscos.md'
-  #   - Quadro de Conhecimento e Pareamento: 'planejamento/conhecimento_pareamento.md'
-  # - Guias:
-  #   - Guia de Contribuição: 'guias/guia-contribuicao.md'
-  #   - Código de Conduta: 'guias/codigo-conduta.md'
   # - Dojos:
   #   - Dojo Markdown: 'dojo/dojo-markdown.md'
   #   - Dojo Git: 'dojo/dojo-git.md'
