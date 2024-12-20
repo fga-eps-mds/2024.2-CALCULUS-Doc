@@ -5,7 +5,8 @@
 | **Versão** | **Data** | **Modificação** | **Responsável** |
 | :-: | :-: | :-: | :-: |
 | 1.0 | 02/12/24 | Criação do documento | Gabriel Mariano e André Corrêa |
-| 1.1 | 08/12/24 | Adição da planilha 3 | André Corrêa e Gabriel Mariano|
+| 1.1 | 08/12/24 | Adição da planilha 3 | André Corrêa e Gabriel Mariano |
+| 1.2 | 19/12/24 | Adiciona a Quarta Coleta | Gabriel Mariano |
 
 *Tabela 1: Versionamento*
 
@@ -33,6 +34,12 @@ As tabelas de conhecimento preenchidas ao longo do semestre podem ser encontrada
 
 <img src="../../assets/conhecimento/conhecimento_28_11_24.png" alt="Planilha de Conhecimentos: 28/11/2024" width="1000"/>
 
-*Figura 2: Planilha de Conhecimentos de 28/11/2024*
+*Figura 3: Planilha de Conhecimentos de 28/11/2024*
+
+### Quarta Coleta (18/12/2024)
+
+<img src="../../assets/conhecimento/conhecimento_18_12_24.png" alt="Planilha de Conhecimentos: 18/12/2024" width="1000"/>
+
+*Figura 4: Planilha de Conhecimentos de 18/12/2024*
 
 Para ver todas as planilhas pode-se acessar o seguinte [link](https://docs.google.com/spreadsheets/d/1RBjz0P8PlI9E7Ih7S0mFAS8CW2lDqglOjgUDL6Qg7gQ/edit?usp=sharing)

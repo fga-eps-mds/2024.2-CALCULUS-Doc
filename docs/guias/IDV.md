@@ -1,4 +1,4 @@
-# Guia de Identidade visual
+# Guia de Identidade Visual
 
 ## Histórico de versões
 
@@ -17,7 +17,6 @@ O guia de identidade visual busca trazer diretivas de cores, fontes, formatos pa
 ## 3. Documento
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/lGgbvDwyutTudeTBpzdGzM/Arandu-(v.1.0)?node-id=28-43&embed-host=share" allowfullscreen></iframe>
-
 
 ## 4. Protótipos
 
