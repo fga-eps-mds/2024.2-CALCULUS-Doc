@@ -93,6 +93,7 @@ nav:
     - Plano de Custos: 'projeto/custos.md'
     - Plano de Riscos: 'projeto/planejamento_de_risco.md'
     - Metodologias e Ferramentas: 'projeto/metodologias_e_ferramentas.md'
+    - AgileEVM: 'projeto/agile_evm.md'
   #   - EVM: 'organizacoes/EVM.md'
   # - Dojos:
   #   - Dojo Markdown: 'dojo/dojo-markdown.md'
