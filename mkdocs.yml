@@ -84,8 +84,8 @@ nav:
   - Documentação Técnica:
     - Documento de Arquitetura: 'projeto/arquitetura.md'
   #   - Termo de Abertura do Projeto: 'organizacoes/tap.md'
-  #   - Visão de Dados: 'organizacoes/visao-de-dados.md'
-  #   - Visão de Endpoints: 'organizacoes/visao-de-endpoints.md'
+    - Visão de Dados: 'projeto/vis_dados.md'
+  #  - Visão de Endpoints: 'organizacoes/visao-de-endpoints.md'
   #   - Manual de Instruções: 'organizacoes/manual_de_instruções.md'
   - Gestão do Projeto:
     - Estrutura Analítica do Projeto: 'projeto/estrutura_analitica.md'
