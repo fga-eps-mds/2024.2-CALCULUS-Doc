@@ -37,7 +37,7 @@ Foram definidas as seguintes tecnologias para o projeto:
 <iframe frameborder="0" style="width:100%;height:308px;" src="https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=calculus-diagram.drawio&page-id=I-6fpici55m38HMQ_MQw#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1a0Ob_2W3N1eerm0drMZDin9y0jveMfpN%26export%3Ddownload"></iframe>
 **Autor:** Calculus Team 2024.1
 
-A arquitetura de microsserviços adotada no *Calculus* segue uma abordagem onde a aplicação é composta por serviços menores, implementados de forma independente e com baixo acoplamento. Esses serviços, organizados por domínios de negócios, comunicam-se entre si, principalmente por meio de APIs. Essa arquitetura promove um desenvolvimento mais ágil e facilita a escalabilidade da aplicação. Cada microsserviço possui sua própria base de dados independente, assegurando isolamento e robustez.
+A arquitetura de microsserviços adotada no *Arandu* segue uma abordagem onde a aplicação é composta por serviços menores, implementados de forma independente e com baixo acoplamento. Esses serviços, organizados por domínios de negócios, comunicam-se entre si, principalmente por meio de APIs. Essa arquitetura promove um desenvolvimento mais ágil e facilita a escalabilidade da aplicação. Cada microsserviço possui sua própria base de dados independente, assegurando isolamento e robustez.
 
 ### Serviços
 
