@@ -5,7 +5,8 @@
 | **Versão** | **Data** | **Modificação** | **Responsável** |
 | :-: | :-: | :-: | :-: |
 | 1.0 | 02/12/24 | Criação do documento | Gabriel Mariano e André Corrêa |
-| 1.1| 08/12/24 | adição de pareamento para US03 | Gabriel Mariano e André Corrêa |
+| 1.1 | 08/12/24 | Adição de pareamento para US03 | Gabriel Mariano e André Corrêa |
+| 1.2 | 19/12/24 | Atualização da tabela de pareamentos | Gabriel Mariano |
 
 *Tabela 1: Versionamento*
 
@@ -19,11 +20,30 @@ Abaixo, a disposição dos pareamentos ao longo do projeto:
 
 ### Pareamentos
 
-| **User Story (U.S.)** | **Objetivo Geral da U.S.** | **Squad** | **Pareamento** |
+| **User Story (U.S.)** | **Objetivo Geral da U.S.** | **Objetivo Específico** | **Squad** ou **Pareamento** |
 | :-: | :-: | :-: | :-: |
-| [**US01**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/58) | Realizar Autenticação | Gabriel Costa, João Filipe, Danilo de Melo, Yasmin Nascimento e Dylan Cavalcante | **Pareamento 01**: Gabriel Costa, Yasmin Nascimento e Dylan Cavalcante </br> **Pareamento 02**: Gabriel Costa, Danilo de Melo e João Filipe |
-| [**US02**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/59) | Gerenciar Usuário | André Corrêa, Gabriel Mariano, Eduardo de Melo, Ricardo Henrique, Daniel Rodrigues, Marina Galdi e Isabella Choukaira | **Pareamento 01**: André Corrêa, Gabriel Mariano, Marina Galdi e Isabella Choukaira </br> **Pareamento 02**: André Corrêa, Gabriel Mariano, Eduardo de Melo, Ricardo Henrique e Daniel Rodrigues |
-| [**US03**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/60) | Recuperar Conta | André Corrêa, Gabriel Mariano, Gabriel Costa, Danilo de Melo e João Filipe | **Pareamento 01**: André Corrêa, Gabriel Mariano, Gabriel Costa, Danilo de Melo e João Filipe|
+| [**US01**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/58) | Realizar Autenticação | Realizar Login | Danilo Melo e João Filipe |
+| [**US01**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/58) | Realizar Autenticação | Realizar Login com Outras Plataformas | Danilo Melo e João Filipe |
+| [**US01**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/58) | Realizar Autenticação | Onboarding da Aplicação | Yasmin e Dylan |
+| [**US01**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/58) | Realizar Autenticação | Autenticação com Biometria | Gabriel Costa |
+| [**US01**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/58) | Realizar Autenticação | Uso de Refresh Token para Manter Login | Yasmin e Dylan |
+
+*Tabela 2: Pareamentos da US01*
+
+| **User Story (U.S.)** | **Objetivo Geral da U.S.** | **Objetivo Específico** | **Squad** ou **Pareamento** |
+| :-: | :-: | :-: | :-: |
+| [**US02**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/59) | Gerenciar Usuário | Criar Usuário | Isabella e Marina |
+| [**US02**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/59) | Gerenciar Usuário | Editar Usuário | Gabriel Mariano, Ricardo, Daniel e Eduardo |
+| [**US02**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/59) | Gerenciar Usuário | Tela de Perfil | Ricardo, Daniel e Eduardo |
+
+*Tabela 3: Pareamentos da US02*
+
+| **User Story (U.S.)** | **Objetivo Geral da U.S.** | **Objetivo Específico** | **Squad** ou **Pareamento** |
+| :-: | :-: | :-: | :-: |
+| [**US03**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/60) | Recuperar Conta | Recuperação e Redefinição | Marina e Isabella |
+| [**US03**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/60) | Recuperar Conta | Configurar E-mail de Redefinição | Gabriel Mariano |
+
+*Tabela 4: Pareamentos da US03*
 
 <!--
 | [**US04**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/66) | Acessar Disciplinas | a definir | a definir |
@@ -41,5 +61,3 @@ Abaixo, a disposição dos pareamentos ao longo do projeto:
 | [**US16**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/81) | Enviar Notificação para o Usuário | a definir | a definir |
 | [**US17**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/82) | Enviar Notificação para o *Admin* | a definir | a definir |
 -->
-
-*Tabela 2: Pareamentos*
