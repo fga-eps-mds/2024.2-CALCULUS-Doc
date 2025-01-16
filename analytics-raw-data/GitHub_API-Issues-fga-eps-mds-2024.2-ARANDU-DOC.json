@@ -1,5 +1,1352 @@
 [
     {
+        "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/119",
+        "repository_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC",
+        "labels_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/119/labels{/name}",
+        "comments_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/119/comments",
+        "events_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/119/events",
+        "html_url": "https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/119",
+        "id": 2790784670,
+        "node_id": "I_kwDONCsHWc6mV_6e",
+        "number": 119,
+        "title": "[BUG] Falta de Inje\u00e7\u00e3o de Depend\u00eancia em Telas",
+        "user": {
+            "login": "gabrielm2q",
+            "id": 72149063,
+            "node_id": "MDQ6VXNlcjcyMTQ5MDYz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/72149063?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/gabrielm2q",
+            "html_url": "https://github.com/gabrielm2q",
+            "followers_url": "https://api.github.com/users/gabrielm2q/followers",
+            "following_url": "https://api.github.com/users/gabrielm2q/following{/other_user}",
+            "gists_url": "https://api.github.com/users/gabrielm2q/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/gabrielm2q/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/gabrielm2q/subscriptions",
+            "organizations_url": "https://api.github.com/users/gabrielm2q/orgs",
+            "repos_url": "https://api.github.com/users/gabrielm2q/repos",
+            "events_url": "https://api.github.com/users/gabrielm2q/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/gabrielm2q/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "labels": [
+            {
+                "id": 7626957931,
+                "node_id": "LA_kwDONCsHWc8AAAABxpokaw",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/bug",
+                "name": "bug",
+                "color": "d73a4a",
+                "default": true,
+                "description": "Something isn't working"
+            },
+            {
+                "id": 7692122965,
+                "node_id": "LA_kwDONCsHWc8AAAABynx7VQ",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/MDS",
+                "name": "MDS",
+                "color": "0068b4",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 7692478580,
+                "node_id": "LA_kwDONCsHWc8AAAAByoHodA",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/Epic",
+                "name": "Epic",
+                "color": "4660F9",
+                "default": false,
+                "description": null
+            }
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": {
+            "login": "EngDann",
+            "id": 137555908,
+            "node_id": "U_kgDOCDLvxA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/137555908?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/EngDann",
+            "html_url": "https://github.com/EngDann",
+            "followers_url": "https://api.github.com/users/EngDann/followers",
+            "following_url": "https://api.github.com/users/EngDann/following{/other_user}",
+            "gists_url": "https://api.github.com/users/EngDann/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/EngDann/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/EngDann/subscriptions",
+            "organizations_url": "https://api.github.com/users/EngDann/orgs",
+            "repos_url": "https://api.github.com/users/EngDann/repos",
+            "events_url": "https://api.github.com/users/EngDann/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/EngDann/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "assignees": [
+            {
+                "login": "EngDann",
+                "id": 137555908,
+                "node_id": "U_kgDOCDLvxA",
+                "avatar_url": "https://avatars.githubusercontent.com/u/137555908?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/EngDann",
+                "html_url": "https://github.com/EngDann",
+                "followers_url": "https://api.github.com/users/EngDann/followers",
+                "following_url": "https://api.github.com/users/EngDann/following{/other_user}",
+                "gists_url": "https://api.github.com/users/EngDann/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/EngDann/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/EngDann/subscriptions",
+                "organizations_url": "https://api.github.com/users/EngDann/orgs",
+                "repos_url": "https://api.github.com/users/EngDann/repos",
+                "events_url": "https://api.github.com/users/EngDann/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/EngDann/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+            },
+            {
+                "login": "dylancavalcante",
+                "id": 164230534,
+                "node_id": "U_kgDOCcn1hg",
+                "avatar_url": "https://avatars.githubusercontent.com/u/164230534?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/dylancavalcante",
+                "html_url": "https://github.com/dylancavalcante",
+                "followers_url": "https://api.github.com/users/dylancavalcante/followers",
+                "following_url": "https://api.github.com/users/dylancavalcante/following{/other_user}",
+                "gists_url": "https://api.github.com/users/dylancavalcante/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/dylancavalcante/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/dylancavalcante/subscriptions",
+                "organizations_url": "https://api.github.com/users/dylancavalcante/orgs",
+                "repos_url": "https://api.github.com/users/dylancavalcante/repos",
+                "events_url": "https://api.github.com/users/dylancavalcante/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/dylancavalcante/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+            }
+        ],
+        "milestone": {
+            "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/milestones/2",
+            "html_url": "https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/milestone/2",
+            "labels_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/milestones/2/labels",
+            "id": 11974328,
+            "node_id": "MI_kwDONCsHWc4Atra4",
+            "number": 2,
+            "title": "Release MVP",
+            "description": "",
+            "creator": {
+                "login": "gabrielm2q",
+                "id": 72149063,
+                "node_id": "MDQ6VXNlcjcyMTQ5MDYz",
+                "avatar_url": "https://avatars.githubusercontent.com/u/72149063?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/gabrielm2q",
+                "html_url": "https://github.com/gabrielm2q",
+                "followers_url": "https://api.github.com/users/gabrielm2q/followers",
+                "following_url": "https://api.github.com/users/gabrielm2q/following{/other_user}",
+                "gists_url": "https://api.github.com/users/gabrielm2q/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/gabrielm2q/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/gabrielm2q/subscriptions",
+                "organizations_url": "https://api.github.com/users/gabrielm2q/orgs",
+                "repos_url": "https://api.github.com/users/gabrielm2q/repos",
+                "events_url": "https://api.github.com/users/gabrielm2q/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/gabrielm2q/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+            },
+            "open_issues": 30,
+            "closed_issues": 5,
+            "state": "open",
+            "created_at": "2024-11-30T18:28:17Z",
+            "updated_at": "2025-01-15T20:25:10Z",
+            "due_on": "2025-02-01T08:00:00Z",
+            "closed_at": null
+        },
+        "comments": 0,
+        "created_at": "2025-01-15T20:21:29Z",
+        "updated_at": "2025-01-15T20:25:10Z",
+        "closed_at": null,
+        "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
+        "active_lock_reason": null,
+        "body": "## Descri\u00e7\u00e3o do problema: \r\nFalta de Inje\u00e7\u00e3o de depend\u00eancia nas telas n\u00e3o permitia os testes na viewmodel, existe a necessidade de introduzir inje\u00e7\u00e3o de depend\u00eancia em todas as telas para viabilizar testes na viewmodel de cada tela",
+        "closed_by": null,
+        "reactions": {
+            "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/119/reactions",
+            "total_count": 0,
+            "+1": 0,
+            "-1": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/119/timeline",
+        "performed_via_github_app": null,
+        "state_reason": null
+    },
+    {
+        "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/118",
+        "repository_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC",
+        "labels_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/118/labels{/name}",
+        "comments_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/118/comments",
+        "events_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/118/events",
+        "html_url": "https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/118",
+        "id": 2790783923,
+        "node_id": "I_kwDONCsHWc6mV_uz",
+        "number": 118,
+        "title": "[BUG] Erro no Command e RequestButton",
+        "user": {
+            "login": "gabrielm2q",
+            "id": 72149063,
+            "node_id": "MDQ6VXNlcjcyMTQ5MDYz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/72149063?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/gabrielm2q",
+            "html_url": "https://github.com/gabrielm2q",
+            "followers_url": "https://api.github.com/users/gabrielm2q/followers",
+            "following_url": "https://api.github.com/users/gabrielm2q/following{/other_user}",
+            "gists_url": "https://api.github.com/users/gabrielm2q/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/gabrielm2q/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/gabrielm2q/subscriptions",
+            "organizations_url": "https://api.github.com/users/gabrielm2q/orgs",
+            "repos_url": "https://api.github.com/users/gabrielm2q/repos",
+            "events_url": "https://api.github.com/users/gabrielm2q/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/gabrielm2q/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "labels": [
+            {
+                "id": 7626957931,
+                "node_id": "LA_kwDONCsHWc8AAAABxpokaw",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/bug",
+                "name": "bug",
+                "color": "d73a4a",
+                "default": true,
+                "description": "Something isn't working"
+            },
+            {
+                "id": 7692122965,
+                "node_id": "LA_kwDONCsHWc8AAAABynx7VQ",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/MDS",
+                "name": "MDS",
+                "color": "0068b4",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 7692478580,
+                "node_id": "LA_kwDONCsHWc8AAAAByoHodA",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/Epic",
+                "name": "Epic",
+                "color": "4660F9",
+                "default": false,
+                "description": null
+            }
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": {
+            "login": "dylancavalcante",
+            "id": 164230534,
+            "node_id": "U_kgDOCcn1hg",
+            "avatar_url": "https://avatars.githubusercontent.com/u/164230534?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dylancavalcante",
+            "html_url": "https://github.com/dylancavalcante",
+            "followers_url": "https://api.github.com/users/dylancavalcante/followers",
+            "following_url": "https://api.github.com/users/dylancavalcante/following{/other_user}",
+            "gists_url": "https://api.github.com/users/dylancavalcante/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/dylancavalcante/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/dylancavalcante/subscriptions",
+            "organizations_url": "https://api.github.com/users/dylancavalcante/orgs",
+            "repos_url": "https://api.github.com/users/dylancavalcante/repos",
+            "events_url": "https://api.github.com/users/dylancavalcante/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/dylancavalcante/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "assignees": [
+            {
+                "login": "dylancavalcante",
+                "id": 164230534,
+                "node_id": "U_kgDOCcn1hg",
+                "avatar_url": "https://avatars.githubusercontent.com/u/164230534?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/dylancavalcante",
+                "html_url": "https://github.com/dylancavalcante",
+                "followers_url": "https://api.github.com/users/dylancavalcante/followers",
+                "following_url": "https://api.github.com/users/dylancavalcante/following{/other_user}",
+                "gists_url": "https://api.github.com/users/dylancavalcante/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/dylancavalcante/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/dylancavalcante/subscriptions",
+                "organizations_url": "https://api.github.com/users/dylancavalcante/orgs",
+                "repos_url": "https://api.github.com/users/dylancavalcante/repos",
+                "events_url": "https://api.github.com/users/dylancavalcante/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/dylancavalcante/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+            }
+        ],
+        "milestone": {
+            "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/milestones/2",
+            "html_url": "https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/milestone/2",
+            "labels_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/milestones/2/labels",
+            "id": 11974328,
+            "node_id": "MI_kwDONCsHWc4Atra4",
+            "number": 2,
+            "title": "Release MVP",
+            "description": "",
+            "creator": {
+                "login": "gabrielm2q",
+                "id": 72149063,
+                "node_id": "MDQ6VXNlcjcyMTQ5MDYz",
+                "avatar_url": "https://avatars.githubusercontent.com/u/72149063?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/gabrielm2q",
+                "html_url": "https://github.com/gabrielm2q",
+                "followers_url": "https://api.github.com/users/gabrielm2q/followers",
+                "following_url": "https://api.github.com/users/gabrielm2q/following{/other_user}",
+                "gists_url": "https://api.github.com/users/gabrielm2q/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/gabrielm2q/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/gabrielm2q/subscriptions",
+                "organizations_url": "https://api.github.com/users/gabrielm2q/orgs",
+                "repos_url": "https://api.github.com/users/gabrielm2q/repos",
+                "events_url": "https://api.github.com/users/gabrielm2q/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/gabrielm2q/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+            },
+            "open_issues": 30,
+            "closed_issues": 5,
+            "state": "open",
+            "created_at": "2024-11-30T18:28:17Z",
+            "updated_at": "2025-01-15T20:25:10Z",
+            "due_on": "2025-02-01T08:00:00Z",
+            "closed_at": null
+        },
+        "comments": 0,
+        "created_at": "2025-01-15T20:21:12Z",
+        "updated_at": "2025-01-15T20:23:52Z",
+        "closed_at": null,
+        "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
+        "active_lock_reason": null,
+        "body": "## Descri\u00e7\u00e3o do problema:\r\nAo acessar editar perfil do usu\u00e1rio e confirmar as altera\u00e7\u00f5es dos formul\u00e1rios sem preencher nada, um popUp contendo \"valores inv\u00e1lidos\" aparece na p\u00e1gina. Caso o usu\u00e1rio mude o modo (dark para light ou vice-versa) na mesma p\u00e1gina, sem mexer nos campos de formul\u00e1rio, o mesmo popUp aparece em loop.",
+        "closed_by": null,
+        "reactions": {
+            "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/118/reactions",
+            "total_count": 0,
+            "+1": 0,
+            "-1": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/118/timeline",
+        "performed_via_github_app": null,
+        "state_reason": null
+    },
+    {
+        "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/117",
+        "repository_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC",
+        "labels_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/117/labels{/name}",
+        "comments_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/117/comments",
+        "events_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/117/events",
+        "html_url": "https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/117",
+        "id": 2790783080,
+        "node_id": "I_kwDONCsHWc6mV_ho",
+        "number": 117,
+        "title": "[ENHANCEMENT] L\u00f3gica de Controle de Contagem no Onboarding",
+        "user": {
+            "login": "gabrielm2q",
+            "id": 72149063,
+            "node_id": "MDQ6VXNlcjcyMTQ5MDYz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/72149063?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/gabrielm2q",
+            "html_url": "https://github.com/gabrielm2q",
+            "followers_url": "https://api.github.com/users/gabrielm2q/followers",
+            "following_url": "https://api.github.com/users/gabrielm2q/following{/other_user}",
+            "gists_url": "https://api.github.com/users/gabrielm2q/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/gabrielm2q/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/gabrielm2q/subscriptions",
+            "organizations_url": "https://api.github.com/users/gabrielm2q/orgs",
+            "repos_url": "https://api.github.com/users/gabrielm2q/repos",
+            "events_url": "https://api.github.com/users/gabrielm2q/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/gabrielm2q/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "labels": [
+            {
+                "id": 7626957947,
+                "node_id": "LA_kwDONCsHWc8AAAABxpokew",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            },
+            {
+                "id": 7692122965,
+                "node_id": "LA_kwDONCsHWc8AAAABynx7VQ",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/MDS",
+                "name": "MDS",
+                "color": "0068b4",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 7692478580,
+                "node_id": "LA_kwDONCsHWc8AAAAByoHodA",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/Epic",
+                "name": "Epic",
+                "color": "4660F9",
+                "default": false,
+                "description": null
+            }
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": {
+            "login": "dylancavalcante",
+            "id": 164230534,
+            "node_id": "U_kgDOCcn1hg",
+            "avatar_url": "https://avatars.githubusercontent.com/u/164230534?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dylancavalcante",
+            "html_url": "https://github.com/dylancavalcante",
+            "followers_url": "https://api.github.com/users/dylancavalcante/followers",
+            "following_url": "https://api.github.com/users/dylancavalcante/following{/other_user}",
+            "gists_url": "https://api.github.com/users/dylancavalcante/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/dylancavalcante/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/dylancavalcante/subscriptions",
+            "organizations_url": "https://api.github.com/users/dylancavalcante/orgs",
+            "repos_url": "https://api.github.com/users/dylancavalcante/repos",
+            "events_url": "https://api.github.com/users/dylancavalcante/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/dylancavalcante/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "assignees": [
+            {
+                "login": "dylancavalcante",
+                "id": 164230534,
+                "node_id": "U_kgDOCcn1hg",
+                "avatar_url": "https://avatars.githubusercontent.com/u/164230534?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/dylancavalcante",
+                "html_url": "https://github.com/dylancavalcante",
+                "followers_url": "https://api.github.com/users/dylancavalcante/followers",
+                "following_url": "https://api.github.com/users/dylancavalcante/following{/other_user}",
+                "gists_url": "https://api.github.com/users/dylancavalcante/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/dylancavalcante/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/dylancavalcante/subscriptions",
+                "organizations_url": "https://api.github.com/users/dylancavalcante/orgs",
+                "repos_url": "https://api.github.com/users/dylancavalcante/repos",
+                "events_url": "https://api.github.com/users/dylancavalcante/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/dylancavalcante/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+            }
+        ],
+        "milestone": {
+            "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/milestones/2",
+            "html_url": "https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/milestone/2",
+            "labels_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/milestones/2/labels",
+            "id": 11974328,
+            "node_id": "MI_kwDONCsHWc4Atra4",
+            "number": 2,
+            "title": "Release MVP",
+            "description": "",
+            "creator": {
+                "login": "gabrielm2q",
+                "id": 72149063,
+                "node_id": "MDQ6VXNlcjcyMTQ5MDYz",
+                "avatar_url": "https://avatars.githubusercontent.com/u/72149063?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/gabrielm2q",
+                "html_url": "https://github.com/gabrielm2q",
+                "followers_url": "https://api.github.com/users/gabrielm2q/followers",
+                "following_url": "https://api.github.com/users/gabrielm2q/following{/other_user}",
+                "gists_url": "https://api.github.com/users/gabrielm2q/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/gabrielm2q/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/gabrielm2q/subscriptions",
+                "organizations_url": "https://api.github.com/users/gabrielm2q/orgs",
+                "repos_url": "https://api.github.com/users/gabrielm2q/repos",
+                "events_url": "https://api.github.com/users/gabrielm2q/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/gabrielm2q/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+            },
+            "open_issues": 30,
+            "closed_issues": 5,
+            "state": "open",
+            "created_at": "2024-11-30T18:28:17Z",
+            "updated_at": "2025-01-15T20:25:10Z",
+            "due_on": "2025-02-01T08:00:00Z",
+            "closed_at": null
+        },
+        "comments": 0,
+        "created_at": "2025-01-15T20:20:51Z",
+        "updated_at": "2025-01-15T20:22:36Z",
+        "closed_at": null,
+        "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
+        "active_lock_reason": null,
+        "body": "## Descri\u00e7\u00e3o da melhoria:\r\nModifica a l\u00f3gica de controle de contagem de visualiza\u00e7\u00f5es no fluxo de welcome/onboarding do aplicativo. As altera\u00e7\u00f5es incluem a otimiza\u00e7\u00e3o do c\u00f3digo para incrementar a contagem de visualiza\u00e7\u00f5es e a corre\u00e7\u00e3o da integra\u00e7\u00e3o com o armazenamento local de dados. Ou seja, depois de tr\u00eas vezes que as telas forem visualizadas, o usu\u00e1rio ser\u00e1 automaticamente redirecionado para o login.",
+        "closed_by": null,
+        "reactions": {
+            "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/117/reactions",
+            "total_count": 0,
+            "+1": 0,
+            "-1": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/117/timeline",
+        "performed_via_github_app": null,
+        "state_reason": null
+    },
+    {
+        "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/116",
+        "repository_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC",
+        "labels_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/116/labels{/name}",
+        "comments_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/116/comments",
+        "events_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/116/events",
+        "html_url": "https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/116",
+        "id": 2790719852,
+        "node_id": "I_kwDONCsHWc6mVwFs",
+        "number": 116,
+        "title": "[ENHANCEMENT] Adicionar Tela Informativa para Erros em Requisi\u00e7\u00f5es",
+        "user": {
+            "login": "gabrielm2q",
+            "id": 72149063,
+            "node_id": "MDQ6VXNlcjcyMTQ5MDYz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/72149063?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/gabrielm2q",
+            "html_url": "https://github.com/gabrielm2q",
+            "followers_url": "https://api.github.com/users/gabrielm2q/followers",
+            "following_url": "https://api.github.com/users/gabrielm2q/following{/other_user}",
+            "gists_url": "https://api.github.com/users/gabrielm2q/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/gabrielm2q/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/gabrielm2q/subscriptions",
+            "organizations_url": "https://api.github.com/users/gabrielm2q/orgs",
+            "repos_url": "https://api.github.com/users/gabrielm2q/repos",
+            "events_url": "https://api.github.com/users/gabrielm2q/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/gabrielm2q/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "labels": [
+            {
+                "id": 7626957947,
+                "node_id": "LA_kwDONCsHWc8AAAABxpokew",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            },
+            {
+                "id": 7692122438,
+                "node_id": "LA_kwDONCsHWc8AAAABynx5Rg",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/EPS",
+                "name": "EPS",
+                "color": "006633",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 7692122965,
+                "node_id": "LA_kwDONCsHWc8AAAABynx7VQ",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/MDS",
+                "name": "MDS",
+                "color": "0068b4",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 7692478580,
+                "node_id": "LA_kwDONCsHWc8AAAAByoHodA",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/Epic",
+                "name": "Epic",
+                "color": "4660F9",
+                "default": false,
+                "description": null
+            }
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": {
+            "login": "Yasm1nNasc1mento",
+            "id": 164230168,
+            "node_id": "U_kgDOCcn0GA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/164230168?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Yasm1nNasc1mento",
+            "html_url": "https://github.com/Yasm1nNasc1mento",
+            "followers_url": "https://api.github.com/users/Yasm1nNasc1mento/followers",
+            "following_url": "https://api.github.com/users/Yasm1nNasc1mento/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Yasm1nNasc1mento/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Yasm1nNasc1mento/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Yasm1nNasc1mento/subscriptions",
+            "organizations_url": "https://api.github.com/users/Yasm1nNasc1mento/orgs",
+            "repos_url": "https://api.github.com/users/Yasm1nNasc1mento/repos",
+            "events_url": "https://api.github.com/users/Yasm1nNasc1mento/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Yasm1nNasc1mento/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "assignees": [
+            {
+                "login": "GabrielCostaDeOliveira",
+                "id": 60332560,
+                "node_id": "MDQ6VXNlcjYwMzMyNTYw",
+                "avatar_url": "https://avatars.githubusercontent.com/u/60332560?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/GabrielCostaDeOliveira",
+                "html_url": "https://github.com/GabrielCostaDeOliveira",
+                "followers_url": "https://api.github.com/users/GabrielCostaDeOliveira/followers",
+                "following_url": "https://api.github.com/users/GabrielCostaDeOliveira/following{/other_user}",
+                "gists_url": "https://api.github.com/users/GabrielCostaDeOliveira/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/GabrielCostaDeOliveira/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/GabrielCostaDeOliveira/subscriptions",
+                "organizations_url": "https://api.github.com/users/GabrielCostaDeOliveira/orgs",
+                "repos_url": "https://api.github.com/users/GabrielCostaDeOliveira/repos",
+                "events_url": "https://api.github.com/users/GabrielCostaDeOliveira/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/GabrielCostaDeOliveira/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+            },
+            {
+                "login": "Yasm1nNasc1mento",
+                "id": 164230168,
+                "node_id": "U_kgDOCcn0GA",
+                "avatar_url": "https://avatars.githubusercontent.com/u/164230168?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Yasm1nNasc1mento",
+                "html_url": "https://github.com/Yasm1nNasc1mento",
+                "followers_url": "https://api.github.com/users/Yasm1nNasc1mento/followers",
+                "following_url": "https://api.github.com/users/Yasm1nNasc1mento/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Yasm1nNasc1mento/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Yasm1nNasc1mento/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Yasm1nNasc1mento/subscriptions",
+                "organizations_url": "https://api.github.com/users/Yasm1nNasc1mento/orgs",
+                "repos_url": "https://api.github.com/users/Yasm1nNasc1mento/repos",
+                "events_url": "https://api.github.com/users/Yasm1nNasc1mento/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Yasm1nNasc1mento/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+            }
+        ],
+        "milestone": {
+            "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/milestones/2",
+            "html_url": "https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/milestone/2",
+            "labels_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/milestones/2/labels",
+            "id": 11974328,
+            "node_id": "MI_kwDONCsHWc4Atra4",
+            "number": 2,
+            "title": "Release MVP",
+            "description": "",
+            "creator": {
+                "login": "gabrielm2q",
+                "id": 72149063,
+                "node_id": "MDQ6VXNlcjcyMTQ5MDYz",
+                "avatar_url": "https://avatars.githubusercontent.com/u/72149063?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/gabrielm2q",
+                "html_url": "https://github.com/gabrielm2q",
+                "followers_url": "https://api.github.com/users/gabrielm2q/followers",
+                "following_url": "https://api.github.com/users/gabrielm2q/following{/other_user}",
+                "gists_url": "https://api.github.com/users/gabrielm2q/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/gabrielm2q/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/gabrielm2q/subscriptions",
+                "organizations_url": "https://api.github.com/users/gabrielm2q/orgs",
+                "repos_url": "https://api.github.com/users/gabrielm2q/repos",
+                "events_url": "https://api.github.com/users/gabrielm2q/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/gabrielm2q/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+            },
+            "open_issues": 30,
+            "closed_issues": 5,
+            "state": "open",
+            "created_at": "2024-11-30T18:28:17Z",
+            "updated_at": "2025-01-15T20:25:10Z",
+            "due_on": "2025-02-01T08:00:00Z",
+            "closed_at": null
+        },
+        "comments": 0,
+        "created_at": "2025-01-15T19:55:53Z",
+        "updated_at": "2025-01-15T20:10:56Z",
+        "closed_at": null,
+        "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
+        "active_lock_reason": null,
+        "body": null,
+        "closed_by": null,
+        "reactions": {
+            "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/116/reactions",
+            "total_count": 0,
+            "+1": 0,
+            "-1": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/116/timeline",
+        "performed_via_github_app": null,
+        "state_reason": null
+    },
+    {
+        "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/115",
+        "repository_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC",
+        "labels_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/115/labels{/name}",
+        "comments_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/115/comments",
+        "events_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/115/events",
+        "html_url": "https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/115",
+        "id": 2790718834,
+        "node_id": "I_kwDONCsHWc6mVv1y",
+        "number": 115,
+        "title": "[BUG] Remover Exibi\u00e7\u00e3o de Dados Pessoais em Todos os Servi\u00e7os",
+        "user": {
+            "login": "gabrielm2q",
+            "id": 72149063,
+            "node_id": "MDQ6VXNlcjcyMTQ5MDYz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/72149063?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/gabrielm2q",
+            "html_url": "https://github.com/gabrielm2q",
+            "followers_url": "https://api.github.com/users/gabrielm2q/followers",
+            "following_url": "https://api.github.com/users/gabrielm2q/following{/other_user}",
+            "gists_url": "https://api.github.com/users/gabrielm2q/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/gabrielm2q/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/gabrielm2q/subscriptions",
+            "organizations_url": "https://api.github.com/users/gabrielm2q/orgs",
+            "repos_url": "https://api.github.com/users/gabrielm2q/repos",
+            "events_url": "https://api.github.com/users/gabrielm2q/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/gabrielm2q/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "labels": [
+            {
+                "id": 7626957931,
+                "node_id": "LA_kwDONCsHWc8AAAABxpokaw",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/bug",
+                "name": "bug",
+                "color": "d73a4a",
+                "default": true,
+                "description": "Something isn't working"
+            },
+            {
+                "id": 7692119959,
+                "node_id": "LA_kwDONCsHWc8AAAABynxvlw",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/EASY",
+                "name": "EASY",
+                "color": "C5DEF5",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 7692122438,
+                "node_id": "LA_kwDONCsHWc8AAAABynx5Rg",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/EPS",
+                "name": "EPS",
+                "color": "006633",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 7692122965,
+                "node_id": "LA_kwDONCsHWc8AAAABynx7VQ",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/MDS",
+                "name": "MDS",
+                "color": "0068b4",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 7692478580,
+                "node_id": "LA_kwDONCsHWc8AAAAByoHodA",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/Epic",
+                "name": "Epic",
+                "color": "4660F9",
+                "default": false,
+                "description": null
+            }
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": {
+            "login": "dartmol203",
+            "id": 78980992,
+            "node_id": "MDQ6VXNlcjc4OTgwOTky",
+            "avatar_url": "https://avatars.githubusercontent.com/u/78980992?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dartmol203",
+            "html_url": "https://github.com/dartmol203",
+            "followers_url": "https://api.github.com/users/dartmol203/followers",
+            "following_url": "https://api.github.com/users/dartmol203/following{/other_user}",
+            "gists_url": "https://api.github.com/users/dartmol203/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/dartmol203/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/dartmol203/subscriptions",
+            "organizations_url": "https://api.github.com/users/dartmol203/orgs",
+            "repos_url": "https://api.github.com/users/dartmol203/repos",
+            "events_url": "https://api.github.com/users/dartmol203/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/dartmol203/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "assignees": [
+            {
+                "login": "dartmol203",
+                "id": 78980992,
+                "node_id": "MDQ6VXNlcjc4OTgwOTky",
+                "avatar_url": "https://avatars.githubusercontent.com/u/78980992?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/dartmol203",
+                "html_url": "https://github.com/dartmol203",
+                "followers_url": "https://api.github.com/users/dartmol203/followers",
+                "following_url": "https://api.github.com/users/dartmol203/following{/other_user}",
+                "gists_url": "https://api.github.com/users/dartmol203/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/dartmol203/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/dartmol203/subscriptions",
+                "organizations_url": "https://api.github.com/users/dartmol203/orgs",
+                "repos_url": "https://api.github.com/users/dartmol203/repos",
+                "events_url": "https://api.github.com/users/dartmol203/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/dartmol203/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+            },
+            {
+                "login": "MarinaGaldi",
+                "id": 144155767,
+                "node_id": "U_kgDOCJekdw",
+                "avatar_url": "https://avatars.githubusercontent.com/u/144155767?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/MarinaGaldi",
+                "html_url": "https://github.com/MarinaGaldi",
+                "followers_url": "https://api.github.com/users/MarinaGaldi/followers",
+                "following_url": "https://api.github.com/users/MarinaGaldi/following{/other_user}",
+                "gists_url": "https://api.github.com/users/MarinaGaldi/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/MarinaGaldi/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/MarinaGaldi/subscriptions",
+                "organizations_url": "https://api.github.com/users/MarinaGaldi/orgs",
+                "repos_url": "https://api.github.com/users/MarinaGaldi/repos",
+                "events_url": "https://api.github.com/users/MarinaGaldi/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/MarinaGaldi/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+            }
+        ],
+        "milestone": {
+            "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/milestones/2",
+            "html_url": "https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/milestone/2",
+            "labels_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/milestones/2/labels",
+            "id": 11974328,
+            "node_id": "MI_kwDONCsHWc4Atra4",
+            "number": 2,
+            "title": "Release MVP",
+            "description": "",
+            "creator": {
+                "login": "gabrielm2q",
+                "id": 72149063,
+                "node_id": "MDQ6VXNlcjcyMTQ5MDYz",
+                "avatar_url": "https://avatars.githubusercontent.com/u/72149063?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/gabrielm2q",
+                "html_url": "https://github.com/gabrielm2q",
+                "followers_url": "https://api.github.com/users/gabrielm2q/followers",
+                "following_url": "https://api.github.com/users/gabrielm2q/following{/other_user}",
+                "gists_url": "https://api.github.com/users/gabrielm2q/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/gabrielm2q/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/gabrielm2q/subscriptions",
+                "organizations_url": "https://api.github.com/users/gabrielm2q/orgs",
+                "repos_url": "https://api.github.com/users/gabrielm2q/repos",
+                "events_url": "https://api.github.com/users/gabrielm2q/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/gabrielm2q/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+            },
+            "open_issues": 30,
+            "closed_issues": 5,
+            "state": "open",
+            "created_at": "2024-11-30T18:28:17Z",
+            "updated_at": "2025-01-15T20:25:10Z",
+            "due_on": "2025-02-01T08:00:00Z",
+            "closed_at": null
+        },
+        "comments": 0,
+        "created_at": "2025-01-15T19:55:25Z",
+        "updated_at": "2025-01-15T20:00:02Z",
+        "closed_at": null,
+        "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
+        "active_lock_reason": null,
+        "body": null,
+        "closed_by": null,
+        "reactions": {
+            "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/115/reactions",
+            "total_count": 0,
+            "+1": 0,
+            "-1": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/115/timeline",
+        "performed_via_github_app": null,
+        "state_reason": null
+    },
+    {
+        "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/114",
+        "repository_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC",
+        "labels_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/114/labels{/name}",
+        "comments_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/114/comments",
+        "events_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/114/events",
+        "html_url": "https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/114",
+        "id": 2790717395,
+        "node_id": "I_kwDONCsHWc6mVvfT",
+        "number": 114,
+        "title": "[BUG] Autentica\u00e7\u00e3o em Dispositivo sem Senha",
+        "user": {
+            "login": "gabrielm2q",
+            "id": 72149063,
+            "node_id": "MDQ6VXNlcjcyMTQ5MDYz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/72149063?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/gabrielm2q",
+            "html_url": "https://github.com/gabrielm2q",
+            "followers_url": "https://api.github.com/users/gabrielm2q/followers",
+            "following_url": "https://api.github.com/users/gabrielm2q/following{/other_user}",
+            "gists_url": "https://api.github.com/users/gabrielm2q/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/gabrielm2q/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/gabrielm2q/subscriptions",
+            "organizations_url": "https://api.github.com/users/gabrielm2q/orgs",
+            "repos_url": "https://api.github.com/users/gabrielm2q/repos",
+            "events_url": "https://api.github.com/users/gabrielm2q/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/gabrielm2q/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "labels": [
+            {
+                "id": 7626957931,
+                "node_id": "LA_kwDONCsHWc8AAAABxpokaw",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/bug",
+                "name": "bug",
+                "color": "d73a4a",
+                "default": true,
+                "description": "Something isn't working"
+            },
+            {
+                "id": 7692122438,
+                "node_id": "LA_kwDONCsHWc8AAAABynx5Rg",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/EPS",
+                "name": "EPS",
+                "color": "006633",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 7692122965,
+                "node_id": "LA_kwDONCsHWc8AAAABynx7VQ",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/MDS",
+                "name": "MDS",
+                "color": "0068b4",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 7692478580,
+                "node_id": "LA_kwDONCsHWc8AAAAByoHodA",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/Epic",
+                "name": "Epic",
+                "color": "4660F9",
+                "default": false,
+                "description": null
+            }
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": {
+            "login": "GabrielCostaDeOliveira",
+            "id": 60332560,
+            "node_id": "MDQ6VXNlcjYwMzMyNTYw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/60332560?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/GabrielCostaDeOliveira",
+            "html_url": "https://github.com/GabrielCostaDeOliveira",
+            "followers_url": "https://api.github.com/users/GabrielCostaDeOliveira/followers",
+            "following_url": "https://api.github.com/users/GabrielCostaDeOliveira/following{/other_user}",
+            "gists_url": "https://api.github.com/users/GabrielCostaDeOliveira/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/GabrielCostaDeOliveira/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/GabrielCostaDeOliveira/subscriptions",
+            "organizations_url": "https://api.github.com/users/GabrielCostaDeOliveira/orgs",
+            "repos_url": "https://api.github.com/users/GabrielCostaDeOliveira/repos",
+            "events_url": "https://api.github.com/users/GabrielCostaDeOliveira/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/GabrielCostaDeOliveira/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "assignees": [
+            {
+                "login": "GabrielCostaDeOliveira",
+                "id": 60332560,
+                "node_id": "MDQ6VXNlcjYwMzMyNTYw",
+                "avatar_url": "https://avatars.githubusercontent.com/u/60332560?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/GabrielCostaDeOliveira",
+                "html_url": "https://github.com/GabrielCostaDeOliveira",
+                "followers_url": "https://api.github.com/users/GabrielCostaDeOliveira/followers",
+                "following_url": "https://api.github.com/users/GabrielCostaDeOliveira/following{/other_user}",
+                "gists_url": "https://api.github.com/users/GabrielCostaDeOliveira/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/GabrielCostaDeOliveira/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/GabrielCostaDeOliveira/subscriptions",
+                "organizations_url": "https://api.github.com/users/GabrielCostaDeOliveira/orgs",
+                "repos_url": "https://api.github.com/users/GabrielCostaDeOliveira/repos",
+                "events_url": "https://api.github.com/users/GabrielCostaDeOliveira/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/GabrielCostaDeOliveira/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+            },
+            {
+                "login": "isabellachoukaira",
+                "id": 185298426,
+                "node_id": "U_kgDOCwtt-g",
+                "avatar_url": "https://avatars.githubusercontent.com/u/185298426?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/isabellachoukaira",
+                "html_url": "https://github.com/isabellachoukaira",
+                "followers_url": "https://api.github.com/users/isabellachoukaira/followers",
+                "following_url": "https://api.github.com/users/isabellachoukaira/following{/other_user}",
+                "gists_url": "https://api.github.com/users/isabellachoukaira/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/isabellachoukaira/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/isabellachoukaira/subscriptions",
+                "organizations_url": "https://api.github.com/users/isabellachoukaira/orgs",
+                "repos_url": "https://api.github.com/users/isabellachoukaira/repos",
+                "events_url": "https://api.github.com/users/isabellachoukaira/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/isabellachoukaira/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+            }
+        ],
+        "milestone": {
+            "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/milestones/2",
+            "html_url": "https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/milestone/2",
+            "labels_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/milestones/2/labels",
+            "id": 11974328,
+            "node_id": "MI_kwDONCsHWc4Atra4",
+            "number": 2,
+            "title": "Release MVP",
+            "description": "",
+            "creator": {
+                "login": "gabrielm2q",
+                "id": 72149063,
+                "node_id": "MDQ6VXNlcjcyMTQ5MDYz",
+                "avatar_url": "https://avatars.githubusercontent.com/u/72149063?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/gabrielm2q",
+                "html_url": "https://github.com/gabrielm2q",
+                "followers_url": "https://api.github.com/users/gabrielm2q/followers",
+                "following_url": "https://api.github.com/users/gabrielm2q/following{/other_user}",
+                "gists_url": "https://api.github.com/users/gabrielm2q/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/gabrielm2q/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/gabrielm2q/subscriptions",
+                "organizations_url": "https://api.github.com/users/gabrielm2q/orgs",
+                "repos_url": "https://api.github.com/users/gabrielm2q/repos",
+                "events_url": "https://api.github.com/users/gabrielm2q/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/gabrielm2q/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+            },
+            "open_issues": 30,
+            "closed_issues": 5,
+            "state": "open",
+            "created_at": "2024-11-30T18:28:17Z",
+            "updated_at": "2025-01-15T20:25:10Z",
+            "due_on": "2025-02-01T08:00:00Z",
+            "closed_at": null
+        },
+        "comments": 0,
+        "created_at": "2025-01-15T19:54:55Z",
+        "updated_at": "2025-01-15T20:00:24Z",
+        "closed_at": null,
+        "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
+        "active_lock_reason": null,
+        "body": null,
+        "closed_by": null,
+        "reactions": {
+            "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/114/reactions",
+            "total_count": 0,
+            "+1": 0,
+            "-1": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/114/timeline",
+        "performed_via_github_app": null,
+        "state_reason": null
+    },
+    {
+        "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/113",
+        "repository_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC",
+        "labels_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/113/labels{/name}",
+        "comments_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/113/comments",
+        "events_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/113/events",
+        "html_url": "https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/113",
+        "id": 2790691441,
+        "node_id": "I_kwDONCsHWc6mVpJx",
+        "number": 113,
+        "title": "[ENHANCEMENT] - Criar logo do Arandu",
+        "user": {
+            "login": "R1K4S",
+            "id": 135380624,
+            "node_id": "U_kgDOCBG-kA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/135380624?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/R1K4S",
+            "html_url": "https://github.com/R1K4S",
+            "followers_url": "https://api.github.com/users/R1K4S/followers",
+            "following_url": "https://api.github.com/users/R1K4S/following{/other_user}",
+            "gists_url": "https://api.github.com/users/R1K4S/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/R1K4S/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/R1K4S/subscriptions",
+            "organizations_url": "https://api.github.com/users/R1K4S/orgs",
+            "repos_url": "https://api.github.com/users/R1K4S/repos",
+            "events_url": "https://api.github.com/users/R1K4S/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/R1K4S/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "labels": [
+            {
+                "id": 7626957947,
+                "node_id": "LA_kwDONCsHWc8AAAABxpokew",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/enhancement",
+                "name": "enhancement",
+                "color": "a2eeef",
+                "default": true,
+                "description": "New feature or request"
+            },
+            {
+                "id": 7692115538,
+                "node_id": "LA_kwDONCsHWc8AAAABynxeUg",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/DOCS",
+                "name": "DOCS",
+                "color": "0075ca",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 7692122965,
+                "node_id": "LA_kwDONCsHWc8AAAABynx7VQ",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/MDS",
+                "name": "MDS",
+                "color": "0068b4",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 7692478580,
+                "node_id": "LA_kwDONCsHWc8AAAAByoHodA",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/labels/Epic",
+                "name": "Epic",
+                "color": "4660F9",
+                "default": false,
+                "description": null
+            }
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": {
+            "login": "R1K4S",
+            "id": 135380624,
+            "node_id": "U_kgDOCBG-kA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/135380624?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/R1K4S",
+            "html_url": "https://github.com/R1K4S",
+            "followers_url": "https://api.github.com/users/R1K4S/followers",
+            "following_url": "https://api.github.com/users/R1K4S/following{/other_user}",
+            "gists_url": "https://api.github.com/users/R1K4S/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/R1K4S/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/R1K4S/subscriptions",
+            "organizations_url": "https://api.github.com/users/R1K4S/orgs",
+            "repos_url": "https://api.github.com/users/R1K4S/repos",
+            "events_url": "https://api.github.com/users/R1K4S/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/R1K4S/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "assignees": [
+            {
+                "login": "R1K4S",
+                "id": 135380624,
+                "node_id": "U_kgDOCBG-kA",
+                "avatar_url": "https://avatars.githubusercontent.com/u/135380624?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/R1K4S",
+                "html_url": "https://github.com/R1K4S",
+                "followers_url": "https://api.github.com/users/R1K4S/followers",
+                "following_url": "https://api.github.com/users/R1K4S/following{/other_user}",
+                "gists_url": "https://api.github.com/users/R1K4S/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/R1K4S/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/R1K4S/subscriptions",
+                "organizations_url": "https://api.github.com/users/R1K4S/orgs",
+                "repos_url": "https://api.github.com/users/R1K4S/repos",
+                "events_url": "https://api.github.com/users/R1K4S/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/R1K4S/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+            }
+        ],
+        "milestone": {
+            "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/milestones/2",
+            "html_url": "https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/milestone/2",
+            "labels_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/milestones/2/labels",
+            "id": 11974328,
+            "node_id": "MI_kwDONCsHWc4Atra4",
+            "number": 2,
+            "title": "Release MVP",
+            "description": "",
+            "creator": {
+                "login": "gabrielm2q",
+                "id": 72149063,
+                "node_id": "MDQ6VXNlcjcyMTQ5MDYz",
+                "avatar_url": "https://avatars.githubusercontent.com/u/72149063?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/gabrielm2q",
+                "html_url": "https://github.com/gabrielm2q",
+                "followers_url": "https://api.github.com/users/gabrielm2q/followers",
+                "following_url": "https://api.github.com/users/gabrielm2q/following{/other_user}",
+                "gists_url": "https://api.github.com/users/gabrielm2q/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/gabrielm2q/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/gabrielm2q/subscriptions",
+                "organizations_url": "https://api.github.com/users/gabrielm2q/orgs",
+                "repos_url": "https://api.github.com/users/gabrielm2q/repos",
+                "events_url": "https://api.github.com/users/gabrielm2q/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/gabrielm2q/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+            },
+            "open_issues": 30,
+            "closed_issues": 5,
+            "state": "open",
+            "created_at": "2024-11-30T18:28:17Z",
+            "updated_at": "2025-01-15T20:25:10Z",
+            "due_on": "2025-02-01T08:00:00Z",
+            "closed_at": null
+        },
+        "comments": 0,
+        "created_at": "2025-01-15T19:44:36Z",
+        "updated_at": "2025-01-15T20:03:53Z",
+        "closed_at": null,
+        "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
+        "active_lock_reason": null,
+        "body": null,
+        "closed_by": null,
+        "reactions": {
+            "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/113/reactions",
+            "total_count": 0,
+            "+1": 0,
+            "-1": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/113/timeline",
+        "performed_via_github_app": null,
+        "state_reason": null
+    },
+    {
         "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/112",
         "repository_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC",
         "labels_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/112/labels{/name}",
@@ -78,7 +1425,7 @@
                 "description": null
             }
         ],
-        "state": "open",
+        "state": "closed",
         "locked": false,
         "assignee": {
             "login": "gabrielm2q",
@@ -217,22 +1564,47 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
         "comments": 0,
         "created_at": "2025-01-12T21:42:39Z",
-        "updated_at": "2025-01-12T21:49:52Z",
-        "closed_at": null,
+        "updated_at": "2025-01-15T19:19:21Z",
+        "closed_at": "2025-01-15T19:19:21Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "# Descri\u00e7\u00e3o\n\nNa composi\u00e7\u00e3o do JWT, existem alguns atributos que s\u00e3o usados na valida\u00e7\u00e3o do usu\u00e1rio na plataforma. Dentre eles, destaca-se o atributo `userId`.\n\nTodavia, h\u00e1 uma duplicidade de nomenclatura deste atributo na plataforma, sendo que em alguns lugares este \u00e9 identificado como simplesmente `id` e em outros ele \u00e9 identificado como `userId`.\n\nDestarte, como foi removido na https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/110 o atributo `id` do token, o uso do `userId` funcionar\u00e1 em alguns lugares, mas apresentar\u00e1 erros em outros.\n\n# Visualiza\u00e7\u00e3o\n\n## StudioMaker\n\n<img width=\"1451\" src=\"https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd1prQ0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7bb68d4a71019055383e0051e8775b654067aee4/image.png\" alt=\"image.png\" />\n\n## UserService\n\n<img width=\"1444\" src=\"https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd2RrQ0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--900380ec70a6071edd7b96304538343e053c71a6/image.png\" alt=\"image.png\" />\n\n# Proposta de Solu\u00e7\u00e3o\n\nAdicionar campo `id` ao JWT.",
-        "closed_by": null,
+        "closed_by": {
+            "login": "gabrielm2q",
+            "id": 72149063,
+            "node_id": "MDQ6VXNlcjcyMTQ5MDYz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/72149063?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/gabrielm2q",
+            "html_url": "https://github.com/gabrielm2q",
+            "followers_url": "https://api.github.com/users/gabrielm2q/followers",
+            "following_url": "https://api.github.com/users/gabrielm2q/following{/other_user}",
+            "gists_url": "https://api.github.com/users/gabrielm2q/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/gabrielm2q/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/gabrielm2q/subscriptions",
+            "organizations_url": "https://api.github.com/users/gabrielm2q/orgs",
+            "repos_url": "https://api.github.com/users/gabrielm2q/repos",
+            "events_url": "https://api.github.com/users/gabrielm2q/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/gabrielm2q/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
         "reactions": {
             "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/112/reactions",
             "total_count": 0,
@@ -247,7 +1619,7 @@
         },
         "timeline_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/112/timeline",
         "performed_via_github_app": null,
-        "state_reason": null
+        "state_reason": "completed"
     },
     {
         "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/111",
@@ -434,11 +1806,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -447,6 +1819,11 @@
         "updated_at": "2025-01-13T02:21:42Z",
         "closed_at": "2025-01-12T21:10:34Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "# Descri\u00e7\u00e3o \nA vari\u00e1vel de ambiente `USER_SERVICE_URL` no arquivo `.env` do micro servi\u00e7o StudioMaker estava configurada incorretamente como `http://localhost:3000/user` enquanto deveria ser configurado como `http://localhost:3000/users`. \n\n**Essa altera\u00e7\u00e3o \u00e9 crucial para evitar falhas na comunica\u00e7\u00e3o entre os servi\u00e7os e garantir que as requisi\u00e7\u00f5es sejam direcionadas corretamente.**\n\n# Solu\u00e7\u00e3o Proposta\nPara garantir o funcionamento adequado do servi\u00e7o, a URL `USER_SERVICE_URL=http://localhost:3000/user` deve ser alterada para `USER_SERVICE_URL=http://localhost:3000/users`.",
         "closed_by": {
@@ -623,11 +2000,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -636,6 +2013,11 @@
         "updated_at": "2025-01-11T01:00:49Z",
         "closed_at": "2025-01-11T01:00:49Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "## Descri\u00e7\u00e3o \n\nAo tentar ler o atributo 'userId' do Json Web Token gerado, \u00e9 apresentado um erro indicando a inexist\u00eancia de tal atributo. Ao decompor o mesmo na ferramenta dispon\u00edvel em jwt.io, nota-se que o atributo referente ao ID \u00e9 nomeado por 'id\" ao inv\u00e9s de 'userId'.\n\n## Solu\u00e7\u00e3o\n\nAlterar atributo 'id' no _payload_ da cria\u00e7\u00e3o do JWT para 'userId'\n",
         "closed_by": {
@@ -830,11 +2212,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -843,6 +2225,11 @@
         "updated_at": "2024-12-20T21:27:03Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "- **Descri\u00e7\u00e3o:**\nAo criar uma conta na aplica\u00e7\u00e3o web, em alguns casos \u00e9 exibida uma mensagem de erro da aplica\u00e7\u00e3o. \u00c9 necess\u00e1rio investigar para descobrir o motivo e a origem.\n\n",
         "closed_by": null,
@@ -1038,11 +2425,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -1051,6 +2438,11 @@
         "updated_at": "2025-01-11T01:01:00Z",
         "closed_at": "2025-01-11T01:01:00Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "- **Descri\u00e7\u00e3o:**\nAo enviar algumas requisi\u00e7\u00f5es para o backend, h\u00e1 a exibi\u00e7\u00e3o de algumas informa\u00e7\u00f5es por meio de _prints_ no terminal.\n\n- **Solu\u00e7\u00e3o proposta:**\n\u00c9 proposta a remo\u00e7\u00e3o dos _prints_ de dados sens\u00edveis no terminal nos microservi\u00e7os do backend.",
         "closed_by": {
@@ -1175,6 +2567,11 @@
         "updated_at": "2024-12-20T21:06:09Z",
         "closed_at": "2024-12-20T21:06:09Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "draft": false,
         "pull_request": {
@@ -1344,6 +2741,11 @@
         "updated_at": "2024-12-20T20:30:50Z",
         "closed_at": "2024-12-20T20:18:40Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "draft": false,
         "pull_request": {
@@ -1476,6 +2878,11 @@
         "updated_at": "2024-12-20T18:39:01Z",
         "closed_at": "2024-12-20T18:36:47Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "draft": false,
         "pull_request": {
@@ -1655,6 +3062,11 @@
         "updated_at": "2024-12-20T02:03:59Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": null,
@@ -1759,6 +3171,11 @@
         "updated_at": "2024-12-20T18:39:02Z",
         "closed_at": "2024-12-20T18:37:05Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "draft": false,
         "pull_request": {
@@ -1956,6 +3373,11 @@
         "updated_at": "2024-12-19T23:59:29Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": null,
@@ -2172,11 +3594,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -2185,6 +3607,11 @@
         "updated_at": "2024-12-19T21:13:51Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "- **Descri\u00e7\u00e3o:**\nH\u00e1 v\u00e1rias rotas do back-end (UserService e StudioMaker) que n\u00e3o verificam a autoriza\u00e7\u00e3o do usu\u00e1rio para o uso das mesmas, isso permite que estas sejam executadas por qualquer pessoa, retornando as informa\u00e7\u00f5es respectivas \u00e0 proposta da rota.\n\n- **Exemplo:**\nNo UserService, ao fazer uma requisi\u00e7\u00e3o HTTP do tipo GET para a rota \"HOSTNAME/users\", s\u00e3o retornados todos os usu\u00e1rios cadastrados na aplica\u00e7\u00e3o, como pode ser visto abaixo. No exemplo, n\u00e3o \u00e9 utilizado nenhum tipo de token de autoriza\u00e7\u00e3o.\n<img width=\"1478\" src=\"https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM0kzQ0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ce453fbab484a0fd97bd606a696e99aef5e3d127/image.png\" alt=\"image.png\" />\n\n- **Origem do Problema:**\nEm diversos Controllers (no exemplo acima, o UserController) n\u00e3o h\u00e1 o uso do Guard para a verifica\u00e7\u00e3o do token de autoriza\u00e7\u00e3o. Abaixo, um exemplo:\n<img width=\"564\" src=\"https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM00zQ0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e84c6f393d91c689747bf3e2d8e064fef61ba49a/image.png\" alt=\"image.png\" />\n\n- **Solu\u00e7\u00e3o Proposta**: \n\u00c9 proposta a adi\u00e7\u00e3o dos Guards \u00e0s rotas devidas no UserService e no StudioMaker, de modo a garantir que o usu\u00e1rio esteja autorizado a executar tais requisi\u00e7\u00f5es. Al\u00e9m disso, h\u00e1 um reflexo no FrontEnd e no APP, os quais dever\u00e3o adaptar o envio de requisi\u00e7\u00f5es para o BackEnd de modo a enviar os tokens de autoriza\u00e7\u00e3o dos usu\u00e1rios.",
         "closed_by": null,
@@ -2401,11 +3828,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -2414,6 +3841,11 @@
         "updated_at": "2025-01-11T01:00:52Z",
         "closed_at": "2025-01-11T01:00:52Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "Ao enviar uma requisi\u00e7\u00e3o para criar um usu\u00e1rio, \u00e9 poss\u00edvel adicionar ao corpo da requisi\u00e7\u00e3o o atributo \"role\" onde, caso seja informado que o mesmo seja um \"admin\", \u00e9 criada uma conta com tal papel no Arandu.\n\n- **Requisi\u00e7\u00e3o:**\n<img width=\"1480\" src=\"https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMlkzQ0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--68c1a64ac49e75a49efdb19a6cadb18319c50e2d/image.png\" alt=\"image.png\" />\n\n- **Conta Criada:**\n<img width=\"562\" src=\"https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmczQ0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--88b54d5352bf9459434282454ab353a622e15aff/image.png\" alt=\"image.png\" />\n\n- **Origem do Problema**:\nNo servi\u00e7o \"UserService\", mais especificamente no UserController, \u00e9 esperado como corpo da requisi\u00e7\u00e3o um CreateUserDTO, o qual possui como um de seus campos opcionais o atributo \"role\". Al\u00e9m disso, n\u00e3o \u00e9 feita uma verifica\u00e7\u00e3o no UserService quanto ao valor passado para este campo.\n<img width=\"777\" src=\"https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMm8zQ0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e8be4ce722a55db0cf01d2f1ae0fcc35c4950315/image.png\" alt=\"image.png\" />\n\n- **Solu\u00e7\u00e3o Proposta:**\n\u00c9 proposto que se fa\u00e7a uma verifica\u00e7\u00e3o do valor atribuido ao atributo \"role\" durante a cria\u00e7\u00e3o de um usu\u00e1rio.",
         "closed_by": {
@@ -2538,6 +3970,11 @@
         "updated_at": "2024-12-20T18:38:25Z",
         "closed_at": "2024-12-20T18:38:11Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "draft": false,
         "pull_request": {
@@ -2670,6 +4107,11 @@
         "updated_at": "2024-12-20T18:38:56Z",
         "closed_at": "2024-12-09T08:04:04Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "draft": false,
         "pull_request": {
@@ -2823,6 +4265,11 @@
         "updated_at": "2024-12-20T18:38:58Z",
         "closed_at": "2024-12-09T07:53:45Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "draft": false,
         "pull_request": {
@@ -2955,6 +4402,11 @@
         "updated_at": "2024-12-08T23:33:12Z",
         "closed_at": "2024-12-08T23:33:01Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "draft": false,
         "pull_request": {
@@ -3161,6 +4613,11 @@
         "updated_at": "2024-12-08T23:34:10Z",
         "closed_at": "2024-12-08T23:34:10Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -3285,6 +4742,11 @@
         "updated_at": "2024-12-20T18:38:59Z",
         "closed_at": "2024-12-08T23:10:28Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "draft": false,
         "pull_request": {
@@ -3417,6 +4879,11 @@
         "updated_at": "2024-12-07T21:11:05Z",
         "closed_at": "2024-12-07T21:11:05Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "draft": false,
         "pull_request": {
@@ -3549,6 +5016,11 @@
         "updated_at": "2024-12-03T00:46:58Z",
         "closed_at": "2024-12-03T00:46:58Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "draft": false,
         "pull_request": {
@@ -3746,6 +5218,11 @@
         "updated_at": "2024-12-08T23:34:21Z",
         "closed_at": "2024-12-08T23:34:21Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -3977,6 +5454,11 @@
         "updated_at": "2024-12-09T08:08:05Z",
         "closed_at": "2024-12-09T08:08:05Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -4166,6 +5648,11 @@
         "updated_at": "2024-12-08T23:48:27Z",
         "closed_at": "2024-12-02T23:59:07Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -4355,6 +5842,11 @@
         "updated_at": "2024-12-09T08:08:14Z",
         "closed_at": "2024-12-09T08:08:14Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -4544,6 +6036,11 @@
         "updated_at": "2024-12-18T22:52:22Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": null,
@@ -4734,6 +6231,11 @@
         "updated_at": "2024-12-08T23:48:32Z",
         "closed_at": "2024-12-03T01:00:19Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -4858,6 +6360,11 @@
         "updated_at": "2024-12-02T22:57:30Z",
         "closed_at": "2024-12-02T22:55:37Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "draft": false,
         "pull_request": {
@@ -5064,6 +6571,11 @@
         "updated_at": "2024-12-09T08:11:26Z",
         "closed_at": "2024-12-09T08:11:26Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -5146,6 +6658,11 @@
         "updated_at": "2024-11-27T02:07:35Z",
         "closed_at": "2024-11-27T02:07:35Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -5271,11 +6788,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -5284,6 +6801,11 @@
         "updated_at": "2024-11-30T18:34:14Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como [PAPEL DE USU\u00c1RIO], desejo [REALIZAR ALGO COM O SISTEMA] para que [OBJETIVO FINAL DA HIST\u00d3RIA]\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**: <descrever crit\u00e9rio>;\n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o N**: <descrever crit\u00e9rio>;\n \n## **Tarefas:**\n \n- [] **Tarefa 01:** <descrever tarefa>;\n- [] **Tarefa N:** <descrever tarefa>;\n \n## **Prot\u00f3tipo:**\n \nO prot\u00f3tipo pode ser encontrado em: <link_para_o_prot\u00f3tipo>",
         "closed_by": null,
@@ -5389,11 +6911,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -5402,6 +6924,11 @@
         "updated_at": "2024-11-30T18:34:21Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como [PAPEL DE USU\u00c1RIO], desejo [REALIZAR ALGO COM O SISTEMA] para que [OBJETIVO FINAL DA HIST\u00d3RIA]\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**: <descrever crit\u00e9rio>;\n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o N**: <descrever crit\u00e9rio>;\n \n## **Tarefas:**\n \n- [] **Tarefa 01:** <descrever tarefa>;\n- [] **Tarefa N:** <descrever tarefa>;\n \n## **Prot\u00f3tipo:**\n \nO prot\u00f3tipo pode ser encontrado em: <link_para_o_prot\u00f3tipo>",
         "closed_by": null,
@@ -5511,6 +7038,11 @@
         "updated_at": "2024-11-30T18:43:54Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": null,
@@ -5573,6 +7105,11 @@
         "updated_at": "2024-11-30T01:37:38Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como [PAPEL DE USU\u00c1RIO], desejo [REALIZAR ALGO COM O SISTEMA] para que [OBJETIVO FINAL DA HIST\u00d3RIA]\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**: <descrever crit\u00e9rio>;\n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o N**: <descrever crit\u00e9rio>;\n \n## **Tarefas:**\n \n- [] **Tarefa 01:** <descrever tarefa>;\n- [] **Tarefa N:** <descrever tarefa>;\n \n## **Prot\u00f3tipo:**\n \nO prot\u00f3tipo pode ser encontrado em: <link_para_o_prot\u00f3tipo>",
         "closed_by": null,
@@ -5678,11 +7215,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -5691,6 +7228,11 @@
         "updated_at": "2024-11-30T18:35:31Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como [PAPEL DE USU\u00c1RIO], desejo [REALIZAR ALGO COM O SISTEMA] para que [OBJETIVO FINAL DA HIST\u00d3RIA]\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**: <descrever crit\u00e9rio>;\n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o N**: <descrever crit\u00e9rio>;\n \n## **Tarefas:**\n \n- [] **Tarefa 01:** <descrever tarefa>;\n- [] **Tarefa N:** <descrever tarefa>;\n \n## **Prot\u00f3tipo:**\n \nO prot\u00f3tipo pode ser encontrado em: <link_para_o_prot\u00f3tipo>",
         "closed_by": null,
@@ -5796,11 +7338,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -5809,6 +7351,11 @@
         "updated_at": "2024-11-30T18:37:32Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como [PAPEL DE USU\u00c1RIO], desejo [REALIZAR ALGO COM O SISTEMA] para que [OBJETIVO FINAL DA HIST\u00d3RIA]\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**: <descrever crit\u00e9rio>;\n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o N**: <descrever crit\u00e9rio>;\n \n## **Tarefas:**\n \n- [] **Tarefa 01:** <descrever tarefa>;\n- [] **Tarefa N:** <descrever tarefa>;\n \n## **Prot\u00f3tipo:**\n \nO prot\u00f3tipo pode ser encontrado em: <link_para_o_prot\u00f3tipo>",
         "closed_by": null,
@@ -5914,11 +7461,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -5927,6 +7474,11 @@
         "updated_at": "2024-11-30T18:37:28Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como [PAPEL DE USU\u00c1RIO], desejo [REALIZAR ALGO COM O SISTEMA] para que [OBJETIVO FINAL DA HIST\u00d3RIA]\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**: <descrever crit\u00e9rio>;\n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o N**: <descrever crit\u00e9rio>;\n \n## **Tarefas:**\n \n- [] **Tarefa 01:** <descrever tarefa>;\n- [] **Tarefa N:** <descrever tarefa>;\n \n## **Prot\u00f3tipo:**\n \nO prot\u00f3tipo pode ser encontrado em: <link_para_o_prot\u00f3tipo>",
         "closed_by": null,
@@ -6032,11 +7584,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -6045,6 +7597,11 @@
         "updated_at": "2024-11-30T18:37:41Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como [PAPEL DE USU\u00c1RIO], desejo [REALIZAR ALGO COM O SISTEMA] para que [OBJETIVO FINAL DA HIST\u00d3RIA]\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**: <descrever crit\u00e9rio>;\n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o N**: <descrever crit\u00e9rio>;\n \n## **Tarefas:**\n \n- [] **Tarefa 01:** <descrever tarefa>;\n- [] **Tarefa N:** <descrever tarefa>;\n \n## **Prot\u00f3tipo:**\n \nO prot\u00f3tipo pode ser encontrado em: <link_para_o_prot\u00f3tipo>;",
         "closed_by": null,
@@ -6107,6 +7664,11 @@
         "updated_at": "2024-11-30T01:22:29Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como [PAPEL DE USU\u00c1RIO], desejo [REALIZAR ALGO COM O SISTEMA] para que [OBJETIVO FINAL DA HIST\u00d3RIA]\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**: <descrever crit\u00e9rio>;\n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o N**: <descrever crit\u00e9rio>;\n \n## **Tarefas:**\n \n- [] **Tarefa 01:** <descrever tarefa>;\n- [] **Tarefa N:** <descrever tarefa>;\n \n## **Prot\u00f3tipo:**\n \nO prot\u00f3tipo pode ser encontrado em: <link_para_o_prot\u00f3tipo>;",
         "closed_by": null,
@@ -6212,11 +7774,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -6225,6 +7787,11 @@
         "updated_at": "2024-11-30T18:38:13Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como [PAPEL DE USU\u00c1RIO], desejo [REALIZAR ALGO COM O SISTEMA] para que [OBJETIVO FINAL DA HIST\u00d3RIA]\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**: <descrever crit\u00e9rio>;\n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o N**: <descrever crit\u00e9rio>;\n \n## **Tarefas:**\n \n- [] **Tarefa 01:** <descrever tarefa>;\n- [] **Tarefa N:** <descrever tarefa>;\n \n## **Prot\u00f3tipo:**\n \nO prot\u00f3tipo pode ser encontrado em: <link_para_o_prot\u00f3tipo>;",
         "closed_by": null,
@@ -6287,6 +7854,11 @@
         "updated_at": "2024-11-30T01:22:57Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como [PAPEL DE USU\u00c1RIO], desejo [REALIZAR ALGO COM O SISTEMA] para que [OBJETIVO FINAL DA HIST\u00d3RIA]\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**: <descrever crit\u00e9rio>;\n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o N**: <descrever crit\u00e9rio>;\n \n## **Tarefas:**\n \n- [] **Tarefa 01:** <descrever tarefa>;\n- [] **Tarefa N:** <descrever tarefa>;\n \n## **Prot\u00f3tipo:**\n \nO prot\u00f3tipo pode ser encontrado em: <link_para_o_prot\u00f3tipo>;",
         "closed_by": null,
@@ -6392,11 +7964,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -6405,6 +7977,11 @@
         "updated_at": "2024-11-30T18:38:42Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como [PAPEL DE USU\u00c1RIO], desejo [REALIZAR ALGO COM O SISTEMA] para que [OBJETIVO FINAL DA HIST\u00d3RIA]\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**: <descrever crit\u00e9rio>;\n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o N**: <descrever crit\u00e9rio>;\n \n## **Tarefas:**\n \n- [] **Tarefa 01:** <descrever tarefa>;\n- [] **Tarefa N:** <descrever tarefa>;\n \n## **Prot\u00f3tipo:**\n \nO prot\u00f3tipo pode ser encontrado em: <link_para_o_prot\u00f3tipo>;",
         "closed_by": null,
@@ -6467,6 +8044,11 @@
         "updated_at": "2024-11-30T01:39:41Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como [PAPEL DE USU\u00c1RIO], desejo [REALIZAR ALGO COM O SISTEMA] para que [OBJETIVO FINAL DA HIST\u00d3RIA]\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**: <descrever crit\u00e9rio>;\n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o N**: <descrever crit\u00e9rio>;\n \n## **Tarefas:**\n \n- [] **Tarefa 01:** <descrever tarefa>;\n- [] **Tarefa N:** <descrever tarefa>;\n \n## **Prot\u00f3tipo:**\n \nO prot\u00f3tipo pode ser encontrado em: <link_para_o_prot\u00f3tipo>;",
         "closed_by": null,
@@ -6572,11 +8154,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -6585,6 +8167,11 @@
         "updated_at": "2024-12-18T00:59:54Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\r\n \r\n## **Descri\u00e7\u00e3o**\r\n \r\n\"Eu, como aluno, desejo ingressar em uma disciplina para que eu possa escolher as jornadas que gostaria de realizar\"\r\n \r\n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\r\n \r\n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**: deve ser poss\u00edvel ingressar em uma disciplina;\r\n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o 02**: deve ser simples para ingressar na disciplina;\r\n \r\n## **Tarefas:**\r\n \r\n- [] **Tarefa 01:** <descrever tarefa>;\r\n- [] **Tarefa N:** <descrever tarefa>;\r\n \r\n## **Prot\u00f3tipo:**\r\n \r\nO prot\u00f3tipo pode ser encontrado em: <link_para_o_prot\u00f3tipo>;",
         "closed_by": null,
@@ -6647,6 +8234,11 @@
         "updated_at": "2024-11-30T01:39:53Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": null,
@@ -6752,11 +8344,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -6765,6 +8357,11 @@
         "updated_at": "2024-12-18T01:00:55Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\r\n \r\n## **Descri\u00e7\u00e3o**\r\n \r\n\"Eu, como aluno, desejo ingressar em uma jornada para que eu possa escolher as trilhas que gostaria de realizar\"\r\n \r\n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\r\n \r\n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**: deve ser poss\u00edvel ingressar em uma jornada;\r\n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o 02**: deve ser simples para ingressar na jornada;\r\n \r\n## **Tarefas:**\r\n \r\n- [] **Tarefa 01:** <descrever tarefa>;\r\n- [] **Tarefa N:** <descrever tarefa>;\r\n \r\n## **Prot\u00f3tipo:**\r\n \r\nO prot\u00f3tipo pode ser encontrado em: <link_para_o_prot\u00f3tipo>;",
         "closed_by": null,
@@ -6933,11 +8530,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -6946,6 +8543,11 @@
         "updated_at": "2025-01-14T19:19:16Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como usu\u00e1rio, desejo acessar as disciplinas dispon\u00edveis na plataforma para que possa estar ciente de quais est\u00e3o ao meu acesso.\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**: Visualizar a disciplina dispon\u00edvel na plataforma;\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 02**: Deve ser poss\u00edvel a visualiza\u00e7\u00e3o das jornadas decorrentes da disciplina em quest\u00e3o;\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 03:** Deve ser poss\u00edvel o cadastro de novas disciplinas por um admin pela interface web;\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 04:** Deve ser poss\u00edvel editar a disciplina por um admin pela interface web;\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 05:** Deve ser poss\u00edvel excluir a disciplina por um admin pela interface web;\n \n## **Tarefas:**\n \n- [ ] **Tarefa 01:** Tela de Disciplinas;\n- [ ] **Tarefa 02:** Tela de Ingresso em Disciplinas;\n- [ ] **Tarefa 03:** Realizar CRUD de Disciplina via WEB;\n \n## **Prot\u00f3tipo:**\n \n<img width=\"369\" src=\"https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMVlQQ0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b735fab2cd4b211f97295cc74329f35eb2c7da09/image.png\" alt=\"image.png\" />\n\n<img width=\"1230\" src=\"https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMVFQQ0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1dcf30b6c26400bc1e382706f4efa3162e0573b2/image.png\" alt=\"image.png\" />\n\n\n\nOs prot\u00f3tipos podem ser encontrados em:\n- [APP](https://www.figma.com/design/lGgbvDwyutTudeTBpzdGzM/Arandu-(v.1.0)?node-id=357-1727&t=zpvQLT2ucCyPU8GP-1)\n- [WEB](https://www.figma.com/design/lGgbvDwyutTudeTBpzdGzM/Arandu-(v.1.0)?node-id=357-1106&t=zpvQLT2ucCyPU8GP-1)",
         "closed_by": null,
@@ -7051,21 +8653,26 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
         "comments": 0,
         "created_at": "2024-11-27T01:15:16Z",
-        "updated_at": "2024-11-30T18:58:19Z",
+        "updated_at": "2025-01-15T20:20:58Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
-        "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como usu\u00e1rio autenticado, desejo acessar as trilhas dispon\u00edveis no sistema para que possa entender o percurso de aprendizado e escolher aquelas que s\u00e3o mais relevantes para meus objetivos.\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**:  O sistema deve exibir uma lista de trilhas dispon\u00edveis, com t\u00edtulo, descri\u00e7\u00e3o breve e indica\u00e7\u00e3o do n\u00edvel de dificuldade;\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 02**: O usu\u00e1rio deve ser capaz de selecionar uma trilha para visualizar detalhes, como disciplinas associadas, objetivos e tempo estimado de conclus\u00e3o.\n \n## **Tarefas:**\n \n- [ ] **Tarefa 01:** <descrever tarefa>;\n- [ ] **Tarefa N:** <descrever tarefa>;\n \n## **Prot\u00f3tipo:**\n \nO prot\u00f3tipo pode ser encontrado em: <link_para_o_prot\u00f3tipo>;",
+        "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como usu\u00e1rio autenticado, desejo acessar a trilha escolhida na tela jornadas para que possa acessar os conte\u00fados disponiveis no meu progresso da trilha para que eu possa continuar meu aprendizado.\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**:  O sistema deve exibir uma trilha com seus respectivos conte\u00fados dispostos ao longo da trilha;\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 02**: O sistema deve indicar para o usu\u00e1rio quais conte\u00fados estao disponiveis.\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 03**: O usu\u00e1rio deve ser capaz de selecionar um conte\u00fado para visualizar o mesmo.\n \n## **Tarefas:**\n \n- [ ] **Tarefa 01:**Desenvovler a tela conforme o prot\u00f3tipo linkado abaixo <descrever tarefa>;\n- [ ] **Tarefa 02:**Realizar a integra\u00e7\u00e3o com Back-End <descrever tarefa>;\n \n## **Prot\u00f3tipo:**\n \nO prot\u00f3tipo pode ser encontrado em: https://www.figma.com/design/lGgbvDwyutTudeTBpzdGzM/Arandu-(v.1.0)?node-id=454-1228&t=XItkvVywThFcJK1D-1;\n<img width=\"369\" src=\"https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBejV5Q0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d0dc8ef4e820984967b14b5a9ec3ffd4cd76484b/Trilha.png\" alt=\"Trilha.png\" />\n",
         "closed_by": null,
         "reactions": {
             "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/65/reactions",
@@ -7137,8 +8744,71 @@
         ],
         "state": "open",
         "locked": false,
-        "assignee": null,
-        "assignees": [],
+        "assignee": {
+            "login": "Yasm1nNasc1mento",
+            "id": 164230168,
+            "node_id": "U_kgDOCcn0GA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/164230168?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Yasm1nNasc1mento",
+            "html_url": "https://github.com/Yasm1nNasc1mento",
+            "followers_url": "https://api.github.com/users/Yasm1nNasc1mento/followers",
+            "following_url": "https://api.github.com/users/Yasm1nNasc1mento/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Yasm1nNasc1mento/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Yasm1nNasc1mento/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Yasm1nNasc1mento/subscriptions",
+            "organizations_url": "https://api.github.com/users/Yasm1nNasc1mento/orgs",
+            "repos_url": "https://api.github.com/users/Yasm1nNasc1mento/repos",
+            "events_url": "https://api.github.com/users/Yasm1nNasc1mento/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Yasm1nNasc1mento/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "assignees": [
+            {
+                "login": "Joao151104",
+                "id": 132922224,
+                "node_id": "U_kgDOB-w7cA",
+                "avatar_url": "https://avatars.githubusercontent.com/u/132922224?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Joao151104",
+                "html_url": "https://github.com/Joao151104",
+                "followers_url": "https://api.github.com/users/Joao151104/followers",
+                "following_url": "https://api.github.com/users/Joao151104/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Joao151104/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Joao151104/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Joao151104/subscriptions",
+                "organizations_url": "https://api.github.com/users/Joao151104/orgs",
+                "repos_url": "https://api.github.com/users/Joao151104/repos",
+                "events_url": "https://api.github.com/users/Joao151104/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Joao151104/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+            },
+            {
+                "login": "Yasm1nNasc1mento",
+                "id": 164230168,
+                "node_id": "U_kgDOCcn0GA",
+                "avatar_url": "https://avatars.githubusercontent.com/u/164230168?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Yasm1nNasc1mento",
+                "html_url": "https://github.com/Yasm1nNasc1mento",
+                "followers_url": "https://api.github.com/users/Yasm1nNasc1mento/followers",
+                "following_url": "https://api.github.com/users/Yasm1nNasc1mento/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Yasm1nNasc1mento/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Yasm1nNasc1mento/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Yasm1nNasc1mento/subscriptions",
+                "organizations_url": "https://api.github.com/users/Yasm1nNasc1mento/orgs",
+                "repos_url": "https://api.github.com/users/Yasm1nNasc1mento/repos",
+                "events_url": "https://api.github.com/users/Yasm1nNasc1mento/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Yasm1nNasc1mento/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+            }
+        ],
         "milestone": {
             "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/milestones/2",
             "html_url": "https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/milestone/2",
@@ -7169,19 +8839,24 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
         "comments": 0,
         "created_at": "2024-11-27T01:13:16Z",
-        "updated_at": "2025-01-15T00:44:31Z",
+        "updated_at": "2025-01-15T22:30:16Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como usu\u00e1rio autenticado, desejo acessar as jornadas dispon\u00edveis no sistema para que possa escolher a melhor op\u00e7\u00e3o para meu aprendizado.\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**:  O sistema deve exibir uma lista de jornadas dispon\u00edveis;\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 02**: O usu\u00e1rio deve ser capaz de selecionar uma jornada para visualizar sua descri\u00e7\u00e3o;\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 03**: O sistema deve exibir as trilhas decorrentes da jornada em quest\u00e3o;\n \n## **Tarefas:**\n \n- [ ] **Tarefa 01:** Tela de Jornadas;\n \n## **Prot\u00f3tipo:**\n \n<img width=\"369\" src=\"https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMWNQQ0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ddc4a8192e60d510f7ba7d9fffc14fc4de90dfa3/image.png\" alt=\"image.png\" />\n\n\nO prot\u00f3tipo pode ser encontrado em: [Figma](https://www.figma.com/design/lGgbvDwyutTudeTBpzdGzM/Arandu-(v.1.0)?node-id=363-1505&t=zpvQLT2ucCyPU8GP-1);",
         "closed_by": {
@@ -7307,21 +8982,26 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
         "comments": 0,
         "created_at": "2024-11-27T01:12:23Z",
-        "updated_at": "2024-12-18T00:50:12Z",
+        "updated_at": "2025-01-15T20:58:57Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
-        "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\r\n \r\n## **Descri\u00e7\u00e3o**\r\n \r\n\"Eu, como aluno, desejo acessar o conte\u00fado dispon\u00edvel no sistema para que possa acessar materiais relevantes para meu aprendizado.\"\r\n \r\n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\r\n \r\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**:  O sistema deve exibir uma lista organizada de conte\u00fados para o aluno ao acessar a \u00e1rea de conte\u00fados;\r\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 02**: O usu\u00e1rio deve ser capaz de selecionar qualquer item da lista para visualizar detalhes, como t\u00edtulo, descri\u00e7\u00e3o e conte\u00fado associados;\r\n\r\n \r\n## **Tarefas:**\r\n \r\n- [ ] **Tarefa 01:** <descrever tarefa>;\r\n- [ ] **Tarefa N:** <descrever tarefa>;\r\n \r\n## **Prot\u00f3tipo:**\r\n \r\nO prot\u00f3tipo pode ser encontrado em: <link_para_o_prot\u00f3tipo>;\r\n",
+        "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como aluno, desejo acessar o conte\u00fado dispon\u00edvel no sistema para que possa estudar o material relevante para meu aprendizado.\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**:  O sistema deve exibir o conte\u00fado dos materiais para o usu\u00e1rio;\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 02**: O usu\u00e1rio deve ser capaz de transitar entre as p\u00e1ginas do material;\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 03**: O usu\u00e1rio deve ser capaz de visualizar seu progresso no material;\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 04**: O usu\u00e1rio deve ser informado de que chegou ao final do material e redirecionado para a trilha, com o intuito de selecionar o pr\u00f3ximo conte\u00fado;\n \n## **Tarefas:**\n \n- [ ] **Tarefa 01:** Criar a tela conforme a prototipa\u00e7\u00e3o;\n- [ ] **Tarefa 02:** Integrar com Back-End ;\n- [ ] **Tarefa 03:** Apresentar os dados do conte\u00fados formatados;\n- [ ] **Tarefa 04:** Criar o modal e indica\u00e7\u00e3o de fim de mat\u00e9ria com a funcionalidade de retornar para a trilha;\n- [ ] **Tarefa 05:** Funcionalidade de transi\u00e7\u00e3o de p\u00e1ginas;\n \n## **Prot\u00f3tipo:**\n \nO prot\u00f3tipo pode ser encontrado em:https://www.figma.com/design/lGgbvDwyutTudeTBpzdGzM/Arandu-(v.1.0)?node-id=539-1316&t=XItkvVywThFcJK1D-1;\n<img width=\"369\" src=\"https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMHB5Q0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9d8c99cd054d5eb00aaf94662d0e112b74c0f0fc/Conteudo.png\" alt=\"Conteudo.png\" />\n<img width=\"368\" src=\"https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMkJ5Q0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f05975dff346f486dd440b7d9df7319467d33814/Group%209927.png\" alt=\"Group 9927.png\" />\n\n\n",
         "closed_by": {
             "login": "gabrielm2q",
             "id": 72149063,
@@ -7402,6 +9082,11 @@
         "updated_at": "2024-11-30T01:38:06Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "<!---US05 \u2013 Deletar Usu\u00e1rio-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como usu\u00e1rio, desejo deletar minha conta para que minhas informa\u00e7\u00f5es e progresso no aprendizado sejam removidos do sistema.\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**: O sistema exibe uma mensagem de confirma\u00e7\u00e3o de exclus\u00e3o;\n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o 02**: O usu\u00e1rio deve clicar em \u201cConfirmar\u201d para obriga\u00e7\u00e3o;\n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o 03**: Todos os dados associados ao usu\u00e1rio, como perfil, progresso em li\u00e7\u00f5es e intera\u00e7\u00f5es, s\u00e3o exclu\u00eddo de forma permanente;\n \n## **Tarefas:**\n \n- [] **Tarefa 01:** <descrever tarefa>;\n- [] **Tarefa N:** <descrever tarefa>;\n \n## **Prot\u00f3tipo:**\n \nO prot\u00f3tipo pode ser encontrado em: <link_para_o_prot\u00f3tipo>;\n",
         "closed_by": null,
@@ -7464,6 +9149,11 @@
         "updated_at": "2024-11-30T01:43:30Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como usu\u00e1rio, desejo visualizar os meus dados na conta para que possa estar ciente do que est\u00e1 registrado na minha conta\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**: Poder visualizar todos os dados registrados na plataforma;\n\n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o 02**: Poder visualizar possiveis dados que nao estejam registrado na plataforma;\n\n## **Tarefas:**\n \n- [] **Tarefa 01:** <descrever tarefa>;\n- [] **Tarefa N:** <descrever tarefa>;\n \n## **Prot\u00f3tipo:**\n \nO prot\u00f3tipo pode ser encontrado em: <link_para_o_prot\u00f3tipo>",
         "closed_by": null,
@@ -7708,6 +9398,11 @@
         "updated_at": "2025-01-08T23:29:25Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "## **Descri\u00e7\u00e3o**\r\n\r\n\"Eu, como Usu\u00e1rio, desejo recuperar minha conta para que eu possa continuar usando a plataforma.\"\r\n\r\n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\r\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**: Atrav\u00e9s de seu e-mail cadastrado na plataforma, o usu\u00e1rio deve ser capaz de recuperar sua conta ao alegar que esqueceu sua senha.\r\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 02**: Ao recuperar sua conta, a plataforma deve permitir que o usu\u00e1rio redefina sua senha.\r\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 03**:  A senha redefinida deve conter uma combina\u00e7\u00e3o de elementos que aumentem a seguran\u00e7a, como ao menos oito caracteres (dentre eles, caracteres alfanum\u00e9ricos e s\u00edmbolos).\r\n \r\n<!--- - [ ] **Atualiza\u00e7\u00e3o de Dados**: O sistema deve permitir a edi\u00e7\u00e3o de todos os campos existentes (a definir os campos);\r\n- [ ] **Valida\u00e7\u00e3o de Campos**: O campo de e-mail, senha e telefone deve aceitar apenas valores no formato v\u00e1lido(a definir os campos com valida\u00e7\u00e3o de campo);\r\n- [ ] **Bot\u00e3o de Salvar**: O bot\u00e3o \"Salvar\" deve ser habilitado quando algum campo estiver editado corretamente, deve exibir uma mensagem de erro se os dados forem inv\u00e1lidos.\r\n\r\n## **Tarefas:**\r\n- [ ] **Dados pessoais**: campo para nome, e-mail, telefone, ou outros dados;\r\n- [ ] **Credenciais**: campo para senha e username;\r\n- [ ] **Configura\u00e7\u00f5es espec\u00edficas**: personalizar prefer\u00eancias relacionadas \u00e0 conta, como notifica\u00e7\u00f5es, idioma, ou temas;\r\n- [ ] **Habilitar/desabilitar usu\u00e1rio**: ativar ou desativar uma conta tempor\u00e1ria ou permanentemente. -->\r\n\r\n## **Tarefas:**\r\n- [ ] **Tarefa 1**: Criar e integrar tela de recupera\u00e7\u00e3o de senha;\r\n- [ ] **Tarefa 2**: Criar e integrar tela de redefini\u00e7\u00e3o de senha;\r\n- [ ] **Tarefa 3**: enviar email de recupera\u00e7\u00e3o\r\n- [ ] **Tarefa 4**: desenvolvimento de testes\r\n \r\n## **Prot\u00f3tipos:**\r\n\r\n<img width=\"347\" src=\"https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMS84Qnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4ed6f7c849bba2e3bf70562042bbc3bcfddc2edb/image.png\" alt=\"image.png\" />\r\n\r\n\r\nO prot\u00f3tipo pode ser encontrado em: [Figma - Recuperar Senha](https://www.figma.com/design/lGgbvDwyutTudeTBpzdGzM/Arandu-(v.1.0)?node-id=152-1054&t=bJt6unI5ExpXLSIA-1)\r\n\r\n",
         "closed_by": null,
@@ -7994,6 +9689,11 @@
         "updated_at": "2024-12-11T00:22:59Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como usu\u00e1rio, desejo gerenciar minha conta (criar, editar, visualizar e deletar), a fim de poder come\u00e7ar minha jornada de aprendizado.\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**: O sistema deve permitir que o novo usu\u00e1rio insira informa\u00e7\u00f5es obrigat\u00f3rias, como nome, e-mail e senha, durante o processo de cria\u00e7\u00e3o de conta;\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 02**: O sistema deve validar os dados fornecidos, garantindo que o e-mail n\u00e3o esteja em uso;\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 03**: O sistema deve permitir que o usu\u00e1rio veja as informa\u00e7\u00f5es de sua conta. \n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 04**:  O sistema deve permitir que o usu\u00e1rio edite as informa\u00e7\u00f5es de sua conta, como nome, e-mail e senha.\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 05**: O sistema deve permitir que o usu\u00e1rio confirme, de forma oculta, sua senha ao realizar o cadastro. \n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 06**: O sistema deve enviar um e-mail para que o usu\u00e1rio confirme o e-mail inserido no cadastro. \n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 07**:  A senha usada deve conter uma combina\u00e7\u00e3o de elementos que aumentem a seguran\u00e7a, como ao menos oito caracteres (dentre eles, caracteres alfanum\u00e9ricos e s\u00edmbolos).\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 08**: O sistema deve permitir que o usu\u00e1rio delete sua conta.\n \n## **Tarefas:**\n \n- [x] **Tarefa 01:** Criar a p\u00e1gina de cria\u00e7\u00e3o de usu\u00e1rio e integrar com o back-end;\n- [ ] **Tarefa 02:** Criar a p\u00e1gina de Perfil e integrar com o back-end;\n- [ ] **Tarefa 03:** Criar a p\u00e1gina de Editar perfil e integrar com o back-end;\n- [ ] **Tarefa 04:** Adicionar parametriza\u00e7\u00e3o de cores e fonte da IDV;\n \n## **Prot\u00f3tipo:**\n Cadastro de usu\u00e1rio (claro e escuro):\n \n![image](https://github.com/user-attachments/assets/88254418-d8b4-41f4-b33c-40198384d6db)\n\nTela de configura\u00e7\u00f5es do usu\u00e1rio (claro e escuro):\n![image](https://github.com/user-attachments/assets/e48c2eaa-63df-4f7a-b609-1d9a996d2b3b)\n\nTela de edi\u00e7\u00e3o, dele\u00e7\u00e3o e visualiza\u00e7\u00e3o de conta (claro e escuro):\n![image](https://github.com/user-attachments/assets/c66a6102-6412-4bfe-b9a9-9d8ac673a9d3)\n\n\nO prot\u00f3tipo pode ser encontrado em: [figma](https://www.figma.com/design/lGgbvDwyutTudeTBpzdGzM/Arandu-(v.1.0)?node-id=72-1082&t=v5MKZHCBu3HkOT2j-1);",
         "closed_by": null,
@@ -8238,6 +9938,11 @@
         "updated_at": "2024-12-18T00:19:09Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como Aluno, desejo acessar o app e autenticar a minha conta para que possa entrar no software\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 02**: apenas autenticar contas j\u00e1 existentes\n\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 02**: Usu\u00e1rio poder preencher  os dados da sua conta e logar ela;\n\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 03**: Ter integra\u00e7\u00e3o de conta com outras plataformas como Google;\n\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 04**: Valida\u00e7\u00e3o de dados do formul\u00e1rio e informar que dados possiveis podem estar errados; \n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 06**: Tela de primeiro contato com o APP entregue\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 05**: Permitir que o usu\u00e1rio se autentique na plataforma com a forma de autentica\u00e7\u00e3o de seu dispositivo (padr\u00e3o do celular, senha do celular, biometria...);\n\n## **Tarefas:**\n \n- [ ] **Tarefa 01:** login com outras plataformas;\n- [x] **Tarefa 02:** login padr\u00e3o\n- [x] **Tarefa 03:** login com biometria\n- [x] **Tarefa 04:** tela de onboarding\n\n- [ ] **Tarefa 5:** aplicar uso de refresh token;\n \n## **Prot\u00f3tipo:**\n\nTela de Onboarding no app:\n\nCLARO:\n![image](https://github.com/user-attachments/assets/6bc6af76-84b5-4722-a8e1-b2848169a864)\n\nESCURO:\n![image](https://github.com/user-attachments/assets/0ec4221e-7679-40b8-8604-077975b13585)\n\nTela de autentica\u00e7\u00e3o:\n\nCLARO:\n![image](https://github.com/user-attachments/assets/c290fe5f-0c10-407c-aa6e-b45b8ad4b3c7)\n\nESCURO:\n![image](https://github.com/user-attachments/assets/44fbcca4-e211-4e8a-9350-a08ff9baeb5e)\n\nO prot\u00f3tipo pode ser encontrado em: https://www.figma.com/design/lGgbvDwyutTudeTBpzdGzM/Arandu-(v.1.0)?node-id=72-1082&t=v5MKZHCBu3HkOT2j-1;\n ",
         "closed_by": null,
@@ -8347,6 +10052,11 @@
         "updated_at": "2024-11-30T18:44:00Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": null,
@@ -8456,6 +10166,11 @@
         "updated_at": "2024-11-30T18:43:47Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": null,
@@ -8552,11 +10267,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -8565,6 +10280,11 @@
         "updated_at": "2024-11-30T18:43:41Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": null,
@@ -8661,11 +10381,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -8674,6 +10394,11 @@
         "updated_at": "2024-11-30T18:43:35Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": null,
@@ -8770,11 +10495,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -8783,6 +10508,11 @@
         "updated_at": "2024-11-30T18:43:30Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": null,
@@ -8879,11 +10609,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -8892,6 +10622,11 @@
         "updated_at": "2024-11-30T18:43:21Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": null,
@@ -8988,11 +10723,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -9001,6 +10736,11 @@
         "updated_at": "2024-11-30T18:43:15Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": null,
@@ -9097,11 +10837,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -9110,6 +10850,11 @@
         "updated_at": "2024-11-30T18:43:09Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": null,
@@ -9219,6 +10964,11 @@
         "updated_at": "2024-11-30T18:30:57Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": null,
@@ -9323,6 +11073,11 @@
         "updated_at": "2024-11-26T00:23:50Z",
         "closed_at": "2024-11-26T00:22:56Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "draft": false,
         "pull_request": {
@@ -9455,6 +11210,11 @@
         "updated_at": "2024-11-23T12:41:18Z",
         "closed_at": "2024-11-23T12:41:08Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "draft": false,
         "pull_request": {
@@ -9587,6 +11347,11 @@
         "updated_at": "2024-11-21T02:10:14Z",
         "closed_at": "2024-11-21T02:10:14Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "draft": false,
         "pull_request": {
@@ -9719,6 +11484,11 @@
         "updated_at": "2024-11-21T00:44:25Z",
         "closed_at": "2024-11-21T00:44:20Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "draft": false,
         "pull_request": {
@@ -9851,6 +11621,11 @@
         "updated_at": "2024-11-20T02:13:18Z",
         "closed_at": "2024-11-20T02:13:03Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "draft": false,
         "pull_request": {
@@ -10035,11 +11810,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 24,
-            "closed_issues": 4,
+            "open_issues": 30,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-12T21:49:41Z",
+            "updated_at": "2025-01-15T20:25:10Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -10048,6 +11823,11 @@
         "updated_at": "2024-12-08T23:37:59Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "Configurar execu\u00e7\u00e3o dos notebooks disponibilizados em [Reposit\u00f3rio da Disciplina](https://github.com/fga-eps-mds/Analytics) para o acompanhamento de m\u00e9tricas de qualidade interna.",
         "closed_by": null,
@@ -10268,6 +12048,11 @@
         "updated_at": "2024-12-19T20:39:43Z",
         "closed_at": "2024-12-08T23:36:55Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "Ao tentar realizar a execu\u00e7\u00e3o dos microsservi\u00e7os via Docker, foi constatado um problema de comunica\u00e7\u00e3o entre os cont\u00eaineres ao realizar o login, sendo registrado um _log_ de erro na sa\u00edda do cont\u00eainer do FrontEnd (_ECONNREFUSED_).\n\nEsta atividade visa consertar tal erro.",
         "closed_by": {
@@ -10457,6 +12242,11 @@
         "updated_at": "2024-12-08T23:34:14Z",
         "closed_at": "2024-12-08T23:34:14Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "Esta atividade tem como objetivo a configura\u00e7\u00e3o integral do ambiente de Homologa\u00e7\u00e3o/QA.\n\n- [ ] O ambiente de homologa\u00e7\u00e3o deve conter um banco de dados dedicado para tal;\n- [ ] O ambiente de homologa\u00e7\u00e3o deve integrar todos os microsservi\u00e7os j\u00e1 existentes;\n- [ ] O ambiente de homologa\u00e7\u00e3o deve ser acess\u00edvel via _link_.",
         "closed_by": {
@@ -10581,6 +12371,11 @@
         "updated_at": "2024-11-16T20:58:15Z",
         "closed_at": "2024-11-16T20:58:15Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "draft": false,
         "pull_request": {
@@ -10765,6 +12560,11 @@
         "updated_at": "2024-11-27T00:07:13Z",
         "closed_at": "2024-11-27T00:07:13Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -10941,6 +12741,11 @@
         "updated_at": "2024-11-27T00:06:58Z",
         "closed_at": "2024-11-27T00:06:58Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -11075,6 +12880,11 @@
         "updated_at": "2024-11-27T00:04:02Z",
         "closed_at": "2024-11-27T00:04:02Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -11209,6 +13019,11 @@
         "updated_at": "2024-11-20T00:26:01Z",
         "closed_at": "2024-11-20T00:26:01Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -11343,6 +13158,11 @@
         "updated_at": "2024-11-20T00:25:50Z",
         "closed_at": "2024-11-20T00:25:50Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -11477,6 +13297,11 @@
         "updated_at": "2024-11-20T00:25:46Z",
         "closed_at": "2024-11-20T00:25:46Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -11611,6 +13436,11 @@
         "updated_at": "2024-11-20T00:25:40Z",
         "closed_at": "2024-11-20T00:25:40Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -11766,6 +13596,11 @@
         "updated_at": "2024-11-20T00:25:35Z",
         "closed_at": "2024-11-20T00:25:35Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -11900,6 +13735,11 @@
         "updated_at": "2024-11-20T00:26:10Z",
         "closed_at": "2024-11-20T00:26:10Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -12024,6 +13864,11 @@
         "updated_at": "2024-11-11T02:21:08Z",
         "closed_at": "2024-11-11T02:21:08Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "draft": false,
         "pull_request": {
@@ -12114,6 +13959,11 @@
         "updated_at": "2024-11-09T16:02:17Z",
         "closed_at": "2024-11-09T16:02:17Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "draft": false,
         "pull_request": {
@@ -12204,6 +14054,11 @@
         "updated_at": "2024-11-09T15:47:52Z",
         "closed_at": "2024-11-09T15:32:49Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "draft": false,
         "pull_request": {
@@ -12376,6 +14231,11 @@
         "updated_at": "2024-11-17T17:41:08Z",
         "closed_at": "2024-11-17T17:41:08Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -12579,6 +14439,11 @@
         "updated_at": "2024-11-17T17:42:36Z",
         "closed_at": "2024-11-17T17:42:36Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "Deadline: 08/11/2024",
         "closed_by": {
@@ -12661,6 +14526,11 @@
         "updated_at": "2024-11-09T14:52:58Z",
         "closed_at": "2024-11-09T14:52:58Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "draft": false,
         "pull_request": {
@@ -12821,6 +14691,11 @@
         "updated_at": "2024-11-27T00:05:19Z",
         "closed_at": "2024-11-27T00:05:19Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -13019,6 +14894,11 @@
         "updated_at": "2024-12-08T23:45:58Z",
         "closed_at": "2024-11-19T00:31:53Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "A plataforma SonarCloud deve ser integrada a todos os reposit\u00f3rios de c\u00f3digo do projeto, sendo capaz de coletar m\u00e9tricas e salv\u00e1-las automaticamente no reposit\u00f3rio de documenta\u00e7\u00e3o.",
         "closed_by": {
@@ -13208,6 +15088,11 @@
         "updated_at": "2024-12-08T23:48:22Z",
         "closed_at": "2024-11-17T17:42:04Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -13411,6 +15296,11 @@
         "updated_at": "2024-12-02T23:31:07Z",
         "closed_at": "2024-12-02T23:31:07Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -13642,6 +15532,11 @@
         "updated_at": "2024-12-08T23:34:08Z",
         "closed_at": "2024-12-08T23:34:08Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -13794,6 +15689,11 @@
         "updated_at": "2024-11-13T20:57:51Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": null,
@@ -13981,6 +15881,11 @@
         "updated_at": "2024-12-08T23:48:09Z",
         "closed_at": "2024-11-17T17:42:21Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -14142,6 +16047,11 @@
         "updated_at": "2024-11-19T00:10:09Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": null,
@@ -14311,6 +16221,11 @@
         "updated_at": "2024-12-08T23:45:39Z",
         "closed_at": "2024-12-02T23:06:21Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "Esta atividade tem como objetivo a execu\u00e7\u00e3o do StudioMaker em ambiente local, tendo em considera\u00e7\u00e3o todas as configura\u00e7\u00f5es de _environment_ envolvidas.\n\nPara al\u00e9m disso, todos os integrantes de EPS e MDS devem conseguir executar o mesmo.",
         "closed_by": {
@@ -14509,6 +16424,11 @@
         "updated_at": "2024-12-08T23:45:53Z",
         "closed_at": "2024-12-02T23:06:19Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "Esta atividade tem como objetivo a execu\u00e7\u00e3o do FrontEnd em ambiente local, tendo em considera\u00e7\u00e3o todas as configura\u00e7\u00f5es de environment envolvidas.\n\nPara al\u00e9m disso, todos os integrantes de EPS e MDS devem conseguir executar o mesmo.",
         "closed_by": {
@@ -14707,6 +16627,11 @@
         "updated_at": "2024-12-08T23:45:49Z",
         "closed_at": "2024-12-02T23:06:23Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "Esta atividade tem como objetivo a execu\u00e7\u00e3o do UserService em ambiente local, tendo em considera\u00e7\u00e3o todas as configura\u00e7\u00f5es de _environment_ envolvidas. \n\nPara al\u00e9m disso, todos os integrantes de EPS e MDS devem conseguir executar o mesmo.",
         "closed_by": {
@@ -14896,6 +16821,11 @@
         "updated_at": "2024-12-08T23:46:02Z",
         "closed_at": "2024-12-02T23:06:24Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "Esta atividade tem como objetivo a prepara\u00e7\u00e3o do S.O. para a execu\u00e7\u00e3o e desenvolvimento dos sistemas no semestre corrente.\n\nPara al\u00e9m disso, todos os integrantes de EPS e MDS devem ter sido instru\u00eddos quanto \u00e0 configura\u00e7\u00e3o do S.O.",
         "closed_by": {
@@ -15094,6 +17024,11 @@
         "updated_at": "2024-12-08T23:45:45Z",
         "closed_at": "2024-12-02T23:31:30Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "Esta atividade tem como objetivo a execu\u00e7\u00e3o dos microsservi\u00e7os em ambiente local, tendo em considera\u00e7\u00e3o todas as configura\u00e7\u00f5es de environment envolvidas.\n\nPara al\u00e9m disso, todos os integrantes de EPS e MDS devem conseguir executar o mesmo.",
         "closed_by": {
@@ -15288,6 +17223,11 @@
         "updated_at": "2024-11-13T21:09:38Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": null,
@@ -15420,6 +17360,11 @@
         "updated_at": "2024-12-14T21:04:49Z",
         "closed_at": "2024-12-14T21:04:49Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -15572,6 +17517,11 @@
         "updated_at": "2024-11-27T00:05:29Z",
         "closed_at": "2024-11-27T00:05:29Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -15733,6 +17683,11 @@
         "updated_at": "2024-11-13T21:10:11Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": null,
@@ -15865,6 +17820,11 @@
         "updated_at": "2024-11-27T00:02:31Z",
         "closed_at": "2024-11-27T00:02:31Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -16026,6 +17986,11 @@
         "updated_at": "2024-11-27T00:02:29Z",
         "closed_at": "2024-11-27T00:02:29Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -16187,6 +18152,11 @@
         "updated_at": "2024-11-27T00:04:37Z",
         "closed_at": "2024-11-27T00:04:37Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -16348,6 +18318,11 @@
         "updated_at": "2024-11-27T00:05:07Z",
         "closed_at": "2024-11-27T00:05:07Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -16509,6 +18484,11 @@
         "updated_at": "2024-11-27T00:04:16Z",
         "closed_at": "2024-11-27T00:04:16Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": {
@@ -16703,6 +18683,11 @@
         "updated_at": "2024-11-19T00:19:48Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": null,
         "closed_by": null,
@@ -16835,6 +18820,11 @@
         "updated_at": "2024-11-02T19:58:04Z",
         "closed_at": "2024-11-02T18:53:38Z",
         "author_association": "CONTRIBUTOR",
+        "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+        },
         "active_lock_reason": null,
         "body": "123",
         "closed_by": {
