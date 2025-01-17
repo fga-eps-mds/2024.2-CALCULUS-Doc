@@ -1,3 +1,13 @@
+---
+name: ENHANCEMENT Template
+about: Este template visa apoiar a documentação de melhorias a serem realizadas no
+  projeto.
+title: "[ENHANCEMENT] - Título Descritivo da Melhoria"
+labels: enhancement
+assignees: ''
+
+---
+
 <!---[ENHANCEMENT] - Título Descritivo da Melhoria-->
 
 ## **Descrição**

@@ -1,3 +1,12 @@
+---
+name: User Story Template
+about: Template voltado à descrição de histórias de usuário do projeto.
+title: USXX - Descrição da US
+labels: US
+assignees: ''
+
+---
+
 <!---USXX - Descrição da US-->
  
 ## **Descrição**
