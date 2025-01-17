@@ -19,7 +19,7 @@ Siga as instruções abaixo para executar a documentação localmente:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/fga-eps-mds/2024.2-CALCULUS-DOC
+git clone https://github.com/fga-eps-mds/2024.2-ARANDU-DOC.git
 ```
 
 2. Navegue para a pasta do repositório:
