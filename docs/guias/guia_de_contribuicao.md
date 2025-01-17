@@ -8,6 +8,8 @@
 | 0.2 | 10/11/24 | Definição das políticas | Gabriel Mariano |
 | 0.3 | 20/11/24 | Altera nomenclatura proposta para *branches* | Gabriel Mariano |
 | 0.4 | 02/12/24 | Adiciona *template* para *User Stories* | Gabriel Mariano |
+| 0.5 | 16/01/25 | Adiciona *templates* para *BUG*s e *ENHANCEMENT*s | André Corrêa e Gabriel Mariano |
+
 
 *Tabela 1: Versionamento*
 
@@ -75,6 +77,42 @@ Tendo em mente a corrente organização da estrutura de gerência do trabalho pe
 <!--- Aqui, podem ser adicionadas as imagens das telas do protótipo relacionadas à história em questão-->
 
 O protótipo pode ser encontrado em: <link_para_o_protótipo>
+```
+
+### **BUGs**
+
+Visando padronizar a documentação de *bugs* ao longo do desenvolvimento do projeto, é proposto o uso de um *template* para tal. O *template* a ser adotado neste projeto para o registro de *bugs* no *Zenhub* (em paralelo ao *Github*) pode ser visto abaixo:
+
+```
+<!---[BUG] - Título Descritivo do BUG-->
+
+## **Descrição**
+
+Esta seção visa apresentar, em linhas gerais, o *bug* encontrado no projeto, em qualquer serviço ou estrutura onde este ocorra.
+
+## **Como Reproduzir?**
+
+Nesta seção, busca-se apresentar um passo a passo de como reproduzir o *bug*. Preferencialmente, são apresentados *prints* e comandos que exemplifiquem este processo.
+
+## **Demais Informações**
+
+Adicionalmente, esta seção pode ser utilizada para apresentar quaisquer informações que possam ser úteis no entendimento do *bug* em questão, podendo tratar até mesmo de propostas de solução, caso estas sejam de conhecimento do(a) autor(a).
+```
+
+### **ENHANCEMENTs**
+
+Seguindo a mesma motivação posta anteriormente para os *bugs* e *user stories*, nesta seção é proposto o uso de um *template* para padronizar a criação de *enhancements* (i.e., melhorias) no projeto, o qual pode ser encontrado abaixo:
+
+```
+<!---[ENHANCEMENT] - Título Descritivo da Melhoria-->
+
+## **Descrição**
+
+Esta seção visa apresentar a melhoria a ser executada no projeto, descrevendo onde esta será executada, como será executada e qual o objetivo desejado. Aqui, podem ser apresentados *prints*, *snippets* de código ou até mesmo *links* para referências externas que exemplifiquem a melhoria proposta.
+
+## **Demais Informações**
+
+Adicionalmente, esta seção pode ser utilizada para apresentar quaisquer informações que possam ser úteis no entendimento da melhoria proposta.
 ```
 
 ### **Branching**
